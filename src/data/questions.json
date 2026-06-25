@@ -138,7 +138,7 @@
 "30km/h",
 "None"
 ],
-"answer": 2,
+"answer": 0,
 "image": null,
 "imageEssential": false
 },
@@ -255,7 +255,7 @@
 "The yellow light placed at behind of the vehicle",
 "A and C are the right answers"
 ],
-"answer": 2,
+"answer": 0,
 "image": null,
 "imageEssential": false
 },
@@ -398,7 +398,7 @@
 "On the right of cross-roads",
 "a and b are correct answers"
 ],
-"answer": 2,
+"answer": 3,
 "image": null,
 "imageEssential": false
 },
@@ -1035,7 +1035,7 @@
 "A and B are both correct answers",
 "none of the answers is correct"
 ],
-"answer": 3,
+"answer": 2,
 "image": null,
 "imageEssential": false
 },
@@ -3661,7 +3661,7 @@
 "Wait and allow both pedestrians to cross.",
 "Allow one pedestrian to cross, and then proceed as there should be room to clear the junction."
 ],
-"answer": 3,
+"answer": 2,
 "image": "315.png",
 "imageEssential": true
 },
@@ -3687,7 +3687,7 @@
 "Wait at the zebra crossing until the van has turned off.",
 "Accelerate quickly before pedestrian cross the road."
 ],
-"answer": 2,
+"answer": 0,
 "image": "317.png",
 "imageEssential": true
 },
@@ -3700,7 +3700,7 @@
 "Car 3 is in the correct position to make the right turn.",
 "Car 4 is in the correct position to make the right turn."
 ],
-"answer": 3,
+"answer": 0,
 "image": "318.png",
 "imageEssential": true
 },
@@ -3765,7 +3765,7 @@
 "Move to the left.",
 "Increase your speed."
 ],
-"answer": 1,
+"answer": 0,
 "image": null,
 "imageEssential": false
 },
@@ -4363,7 +4363,7 @@
 "triangle form, white surface",
 "none of the answer is correct"
 ],
-"answer": 2,
+"answer": 1,
 "image": "370.png",
 "imageEssential": false
 },
@@ -4566,12 +4566,12 @@
 "id": 386,
 "q": "A signal indicating the mandatory direction of a color symbol:",
 "options": [
-"Blanche",
-"Rouge",
+"White",
+"Red",
 "Blue and white",
 "Black"
 ],
-"answer": 2,
+"answer": 1,
 "image": null,
 "imageEssential": false
 },
@@ -4675,7 +4675,7 @@
 "Then, I can turn left or right.",
 "None of the answers is correct"
 ],
-"answer": 1,
+"answer": 0,
 "image": "395.png",
 "imageEssential": true
 },
@@ -4688,7 +4688,7 @@
 "Give way and stop, if necessary, 100 meters beyond this road sign.",
 "None of the answer is correct"
 ],
-"answer": 1,
+"answer": 0,
 "image": "396.png",
 "imageEssential": true
 },
