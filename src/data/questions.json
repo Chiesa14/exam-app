@@ -1,0 +1,5176 @@
+[
+{
+"id": 1,
+"q": "Every vehicle or set of vehicles in motion must have:",
+"options": [
+"A driver",
+"A conveyor",
+"A and B are correct",
+"No correct answer"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 2,
+"q": "The term \"Foot path\" designates a narrow public way accessible only to the traffic of:",
+"options": [
+"Pedestrians",
+"Two wheel vehicles",
+"A and B both are correct",
+"All responses are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 3,
+"q": "The broken line which announces the approach of a continuous line may be completed by white fall back arrows, these marks announce:",
+"options": [
+"The traffic lane that drivers must follow",
+"Approach of a continuous line",
+"Reduction of the number of traffic lanes which may be used in the direction followed",
+"A and C are both correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 4,
+"q": "In places where there are traffic lights, vehicles cannot move:",
+"options": [
+"In parallel lines",
+"On one line",
+"A and B are both correct",
+"None"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 5,
+"q": "The following vehicles must be inspected for road worthiness every year:",
+"options": [
+"Vehicles for public transport",
+"Vehicles for transport of goods of which carrying capacity exceed 3.5 tones",
+"Vehicles for driving school",
+"None"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 6,
+"q": "A width of trailer pulled by a tricycle cannot exceed:",
+"options": [
+"75 cm",
+"125 cm",
+"265 cm",
+"No correct answer"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 7,
+"q": "The length for the following vehicles must not exceed 11 meters:",
+"options": [
+"Vehicles with one axle",
+"Vehicles with two axles placed in the continuation one of the other",
+"Semi-trailer",
+"No correct answer"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 8,
+"q": "Parking a vehicle is forbidden in these places:",
+"options": [
+"At less than 1 meter either before or behind another vehicle at stop or in parking",
+"Where appropriate prohibition signals are placed",
+"At places where pedestrians must walk on the roadway to pass round an obstacle",
+"All answers are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 9,
+"q": "Overtaking is performed on",
+"options": [
+"The right side only",
+"Every time on the left side",
+"The right side only to overtake an animal",
+"No correct answer"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 10,
+"q": "A plate indicating the maximum speed is put only on the vehicles whose authorized weight are:",
+"options": [
+"Weight exceeds 1 tone",
+"Weight exceeds 2 tones",
+"Weight exceeds 24 tones",
+"No correct answer"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 11,
+"q": "Out of agglomeration, the maximum speed of a moped is:",
+"options": [
+"50km/h",
+"40km/h",
+"30km/h",
+"None"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 12,
+"q": "The person who drives on a roadway when the width of the road does not permit to perform easily the overtaking, drives to the verges but must respect:",
+"options": [
+"The speed of the pedestrians",
+"The width of the road",
+"The number of pedestrians",
+"No correct answer"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 13,
+"q": "For sign posting and lighting vehicles as well as the indication of their direction. It is forbidden changing them, using other lights or reflectors other than those prescribed by the decree. But this provision does not concern the following lights:",
+"options": [
+"Side lights",
+"Internal lighting",
+"Gauge light",
+"All answers are correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 14,
+"q": "For the lack of more restrictive regulations, maximum speed of motorcycles is:",
+"options": [
+"25km/h",
+"70km/h",
+"40km/h",
+"No correct answer"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 15,
+"q": "The device used for slowing down the vehicle in case of brake failure is called:",
+"options": [
+"Service brake",
+"Parking brake",
+"Emergency braking",
+"No correct answer"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 16,
+"q": "Which minimum number of windscreen wipers must be provided by every vehicle?",
+"options": [
+"2",
+"3",
+"1",
+"No correct answer"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 17,
+"q": "Headlights of vehicle must be switched off when:",
+"options": [
+"A roadway lighting is continuous and sufficient to permit the driver to see distinctly up to a distance of 20m",
+"When a vehicle is going to cross another",
+"In agglomeration",
+"All responses are correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 18,
+"q": "A vehicle cannot be equipped with more than two lights of the same denomination except:",
+"options": [
+"Size light",
+"Indicator light",
+"Gauge light",
+"All responses are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 19,
+"q": "The width of trailer when it is trailed by a bicycle or scooter is limited to:",
+"options": [
+"25 cm",
+"125 cm",
+"45 cm",
+"No correct answer"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 20,
+"q": "Vehicles assigned to taxi service, with parking on public highway, may be provided with a luminous device indicating that the vehicle is free. That luminous device should be:",
+"options": [
+"The green light placed at the front",
+"The green light placed at left",
+"The yellow light placed at behind of the vehicle",
+"A and C are the right answers"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 21,
+"q": "Buses assigned to transport of school children shall be provided with two flashing orange lights in order to signal stop and to recommend caution. These lights are placed:",
+"options": [
+"behind of the vehicle",
+"in front of the vehicle",
+"one is placed in front and the other at the back of the vehicle",
+"b and c are the right answers"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 22,
+"q": "The brake light of red color must be visible in clear weather at a minimum distance of:",
+"options": [
+"100 m by day light and 20 meters at night",
+"150 m by day light and 50 meters at night",
+"200 m by day light and 100 meters at night",
+"None of them are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 23,
+"q": "When the speed of unloaded vehicles on a flat surface cannot exceed 50km per hour, the sounding alarm apparatus can be heard at distance of:",
+"options": [
+"50 m",
+"200 m",
+"100 m",
+"150 m"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 24,
+"q": "The circulation of self-propelling vehicles and trailers pulled by these vehicles is forbidden when their wheels are provided with either rigid bandages or elastic bandages of less than 0.04 meter thick. But this provision does not apply on:",
+"options": [
+"Military vehicles when they are in traffic within a maximum radius of 25km",
+"Agricultural vehicles",
+"Vehicles of national police",
+"None of them is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 25,
+"q": "The section of the public highway delineated by two broken and parallel white lines, and not wide enough for automobile vehicles traffic constitutes:",
+"options": [
+"Bicycles and mopeds",
+"The wheel barrows",
+"Cycles",
+"None of them is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 26,
+"q": "The width of trailer is limited to the width of the hauling vehicle when the trailer is pulled by:",
+"options": [
+"A bicycle",
+"A scooter",
+"A motorcycle with side car",
+"All answers are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 27,
+"q": "When the other seats are not available in the car, it is forbidden to carry on the front seat children of less than:",
+"options": [
+"12 years",
+"10 years",
+"7 years",
+"None of them is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 28,
+"q": "The sign which indicates the right of way before vehicles coming in the opposite direction has the following colors:",
+"options": [
+"White surface",
+"Symbol is red and black",
+"Symbol is black",
+"None of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 29,
+"q": "When is the right hand priority rule applied in junction?",
+"options": [
+"When there is no road signal for priority",
+"When the traffic lights intended for vehicle do not work properly",
+"A and B are correct",
+"None of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 30,
+"q": "Traffic lights are placed on the right side of the public highway. However they may be duplicated on the left side of the public highway or above it:",
+"options": [
+"Following the direction of the vehicle concerned.",
+"Following the nature of things they do indicate",
+"Where their visibility is best ensured for the users",
+"All answers are correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 31,
+"q": "When the flashing yellow light is used at cross-roads of equal sizes, where must the yellow light be placed?",
+"options": [
+"On each roadway",
+"In the middle of the cross-road",
+"On the right of cross-roads",
+"a and b are correct answers"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 32,
+"q": "Borders of the public highway or the roadway must be signaled by reflectors. These devices must be so set up to let users see them in the following manner:",
+"options": [
+"They see on their left the red reflectors only",
+"On their right they see only the orange reflectors",
+"On left they see the yellow reflectors",
+"None of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 33,
+"q": "The following vehicles must be inspected for roadworthiness every 6 months:",
+"options": [
+"Public service vehicles",
+"Vehicles used for transport of goods with carrying capacity exceeding 3.5 tones",
+"Vehicles used for training drivers",
+"All answers are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 34,
+"q": "Where traffic deviation is required, it is signaled at the beginning and all the way long by means of an indication signal with the following color:",
+"options": [
+"Blue",
+"White",
+"Red",
+"None of the answer is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 35,
+"q": "The following road signs have similar designs:",
+"options": [
+"Indication and obligation signals",
+"The danger and obligation signals",
+"Prohibition and obligation signals",
+"None of the answer is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 36,
+"q": "Which kind of brake allowing to slow down the vehicle and to stop it in a quick and efficient manner, in whatever condition of loading and sharpness of the up or down slope of the way on which it is moving?",
+"options": [
+"Service brake",
+"Emergency brake",
+"Parking brake",
+"None of the answer is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 37,
+"q": "A fastening can only be used in cases of circumstances outside one's control and exclusively for pulling a vehicle all the way to the place of repair at a speed which in any case cannot exceed 20km per hour. These fastenings must be shown by the following manner:",
+"options": [
+"A red piece of cloth measuring a minimum 0.50m by side",
+"An orange colored light laterally visible on the other roads as determined by the minister having transport in his duties",
+"A square white panel of at least 0.20m by side",
+"None these is answer"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 38,
+"q": "With exception to urban areas, on three and more axle vehicles excepting semi-trailers the maximum authorized weight on roads is:",
+"options": [
+"10 tones",
+"12 tones",
+"16 tones",
+"24 tones"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 39,
+"q": "The width of the loading on tricycles and quadricycles with or without engine and trailers pulled by these vehicles cannot exceed:",
+"options": [
+"by more than 0.30m on the width of the vehicle when not loaded",
+"Absolute maximum width is 2.50m",
+"A and B are both correct",
+"None of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 40,
+"q": "Overtaking any other vehicle than a two wheels vehicle is forbidden:",
+"options": [
+"Near a bridge, with a narrow roadway",
+"Near a passage for pedestrians",
+"Near parts of dangerous roads.",
+"All answers are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 41,
+"q": "Where there are no specific restrictive regulations, the maximum speeds for passenger service vehicles is:",
+"options": [
+"60 km/h",
+"40 km/h",
+"25 km/h",
+"20 km/h"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 42,
+"q": "Where there are no specific restrictive regulations, the maximum speed for Motor vehicles used as hackney carriage or taxis of which the authorized weight does not exceed 3,500 kilograms is:",
+"options": [
+"60 km/h",
+"40 km/h",
+"75 km/h",
+"20 km/h"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 43,
+"q": "Parking a vehicle is forbidden:",
+"options": [
+"In front of entrances and exits of public passages",
+"On the roadway at places where it is supported into traffic bands materialized by continuous marks",
+"A and B are both correct",
+"None of the answer is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 44,
+"q": "Between twilight and day break or because of circumstances such as fog or heavy rain where it is not possible to see distinctly up to distance of 200m, the presence on the public way of groups of pedestrians such as processions or school children groups in line under the supervision of a school master, when they move on the road way with more than one front person, must be signaled in the following way:",
+"options": [
+"In front by a yellow light held on the left side",
+"At the back by a white light held on the left side, by the individual in the nearest position to the axis of the roadway",
+"A and B are correct",
+"None of the answer is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 45,
+"q": "Shown pavements and shoulders are reserved to pedestrians when:",
+"options": [
+"There are the special rules shown by signals",
+"When there are in groups under supervision of school master",
+"When there is not the exception of special rules shown by the signals",
+"All answers are correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 46,
+"q": "Luminous signs for warning a driver that he is going to be overtaken are used in the following areas:",
+"options": [
+"In built-up areas only",
+"Approaching the mounted animals only",
+"Approaching only livestock",
+"None of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 47,
+"q": "The authorized maximum weight of trailer must not exceed half the sum of the empty weight of the towing vehicle and the weight of the driver for the following trailers:",
+"options": [
+"The trailer provided with an in-service brake",
+"The trailer not provided with an in-service brake",
+"The trailer with maximum weight not exceeding 750kg",
+"None of the answer is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 48,
+"q": "The vehicles with the width which is superior to the following measures must be provided with loading light:",
+"options": [
+"3 Meters",
+"2.50 Meters",
+"2.10 Meters",
+"2 Meters"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 49,
+"q": "No light or reflector can be placed in such a manner that the lowest point of its lighting surface be below the following measures from the ground level, the vehicle being empty:",
+"options": [
+"30cm",
+"40cm",
+"50cm",
+"1.55m"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 50,
+"q": "Where a vehicle is provided with two or more lights of the same denomination these lights must be of the same color and intensity, and they must be placed symmetrically about the median longitudinal plane of the vehicle but this provision is not applicable to the following lighting device:",
+"options": [
+"size light",
+"gauge light",
+"the back number plate",
+"A and B are correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 51,
+"q": "The highest point of the illuminating area of the front and back position lights cannot be at more than following meters above the ground, the vehicle being unloaded:",
+"options": [
+"1.50m",
+"1.75m",
+"1.90m",
+"2.10m"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 52,
+"q": "When can the vehicle move on the slope roadway while its engine is off or its gears are out:",
+"options": [
+"when it is on slow down",
+"when it is trailed by another vehicle",
+"when it has the service brake",
+"all answers are correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 53,
+"q": "Every motor vehicle or trailer pulled by such a vehicle shall be provided with a green light permitting the driver to signal that he has noticed the warning of the person who is ready to overtake him, this light must be placed as following manner:",
+"options": [
+"it must be fixed nearest to the left border of vehicle",
+"it must be at the back right edge of vehicle",
+"it must be fixed at the back nearest the right",
+"none of the answer is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 54,
+"q": "The following vehicles must be fitted with a speed indicator to be found at clear sight of a driver and to be constantly in good working condition:",
+"options": [
+"motor vehicle likely to move above 60km per hour",
+"motor vehicle likely to move above 40km per hour",
+"motor vehicle likely to move above 30km per hour",
+"motor vehicle likely to move above 25km per hour"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 55,
+"q": "The width of the loading on motorcycles without a side car and trails pulled by these cannot exceed these measures:",
+"options": [
+"1.25m",
+"30cm",
+"75cm",
+"none of the answer is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 56,
+"q": "The following vehicles must be provided with a light diffusing a flashing blue light visible from all directions:",
+"options": [
+"the vehicle with the width is superior to 2.10m",
+"the vehicle of the national police",
+"the priority vehicles",
+"none of the answer is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 57,
+"q": "Between twilight and daybreak or because of circumstances, when it is not possible to see distinctly up to a distance of 200m the presence on the public way of the agricultural machines and specials implements used by construction enterprises can be signaled by two red lights at the back. But on condition that:",
+"options": [
+"the vehicles or materials do not move at a speed of 20km/h",
+"the length of the vehicle or material, load included, does not exceed 6m",
+"the maximal length does not exceed 8m",
+"A and B are both correct answers"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 58,
+"q": "Between twilight and daybreak or because of circumstances, when it is not possible to see distinctly up to a distance of 200m the presence on the public way of the trailers coupled to bicycles, mopeds, and motorbikes without a side car but except non ridden bicycles and mopeds when the bulk of this or its load makes the trailing vehicle light invisible must be signaled by:",
+"options": [
+"A white, yellow or orange light fixed at the back of the trailer",
+"A greener yellow or orange light fixed at the back of the trailer",
+"A and B are both the correct answers",
+"none of the answer is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 59,
+"q": "On the vehicle or line of vehicles the length of overhanging cannot be over than the following measures:",
+"options": [
+"back 3.50m",
+"front 1.70m",
+"A and B are both the correct answers",
+"none of the answer is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 60,
+"q": "When lighting of the vehicle is required if the loading projects beyond the back edge of the vehicle by more than one meter, the most accented protrusion must be signaled by:",
+"options": [
+"a red light and a red reflector at day time",
+"a piece of red cloth of 50 cm at each side at night",
+"a yellow light and a yellow reflector",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 61,
+"q": "When the loading is constituted by cereals, raw coffee wooden charcoal, non-ginned cotton, straw, grass, boughs or forage in bulk, excluding compressed bales, its width can reach the following measures:",
+"options": [
+"2.50m",
+"2.75m",
+"3m",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 62,
+"q": "Except in urban areas, on the other roads as determined by the minister having transport in his duties, the maximum weights authorized by articulated vehicles with three axle is:",
+"options": [
+"20 tones",
+"16 tones",
+"12 tones",
+"10 tones"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 63,
+"q": "Every motor vehicle or trailer pulled by such a vehicle shall be provided with a light permitting the driver to signal that he has noticed the warning of the person who is ready to overtake him:",
+"options": [
+"yellow",
+"green",
+"white",
+"red"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 64,
+"q": "The length of the vehicle or line of vehicles with two axles placed in the continuation one of the other is limited to the following measures:",
+"options": [
+"11 m",
+"10 m",
+"7 m",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 65,
+"q": "One of the following kinds of brake is allowing to maintain the vehicle whatever be the conditions of its loading on an up or down 16% slope, the braking active surfaces being maintained in tightening position by means of a device with purely mechanical action, even in the absence of the driver:",
+"options": [
+"parking brake",
+"service brake",
+"emergency braking",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 66,
+"q": "The reflector placed on the sides of vehicle has the following color:",
+"options": [
+"white",
+"yellow",
+"red",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 67,
+"q": "The trailers, the overall width of which does not exceed 0.80m may be provided only with one reflector if they are coupled up to the following vehicles:",
+"options": [
+"moped",
+"motorbike without a side car",
+"motor vehicles used as hackney carriage",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 68,
+"q": "Road lights, of white or yellow color, must at night, by fine weather, permit the illumination of the roadway at a distance of at least 100m in front of the vehicle but for motor vehicles with engine capacity not exceeding 125cm³ this distance is reduced to:",
+"options": [
+"200 m",
+"100 m",
+"85 m",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 69,
+"q": "When passing near an obstacle which pedestrians must avoid by moving to the roadway, drivers must leave beside that obstacle, a free space of at least one meter wide, where this condition cannot be met and a pedestrian walks near the obstacle, the driver can only pass beside the pedestrian at the following maximum speed:",
+"options": [
+"10km/h",
+"20km/h",
+"30km/h",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 70,
+"q": "Stopping and parking are forbidden particularly in the following space:",
+"options": [
+"on the road of one way",
+"on the side opposite to where another vehicle is already at stop or in parking",
+"on the road ways where the traffic is performed in two direction when the width of the passage having to permit the crossing of two other vehicles would be reduced to less than 12m",
+"all answers are correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 71,
+"q": "The front side lights and the back ones of motor vehicles the length and the width of which, load included, do not exceed respectively 6 and 2 m and to which no other vehicle is yoked can be replaced by the following lights when these vehicles at stop or in parking in suburbs are parallel to the border of the roadway:",
+"options": [
+"head lights",
+"gauge lights",
+"parking lights",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 72,
+"q": "Between twilight and daybreak or because of circumstances such as fog or heavy rain, it is not possible to see distinctly up to distance of 200m, formation of armed forces on march and of all other groups of pedestrians such as procession or school children groups in lines under the supervision of a school master, when they move on the roadway with more than one front, must be signaled in the following way:",
+"options": [
+"in front, by a white light held on the left side, by the individual in the first rank, and in the nearest position to the axis of the roadway",
+"at the back, by a yellow light held on the left side, by the individual in the nearest position to the axis of the roadway",
+"A and B both are correct",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 73,
+"q": "The loading on bicycles, moped, motor bicycles and tricycles and quadricycles, with or without engine cannot project beyond the back edge of the vehicle by more than following measures:",
+"options": [
+"20cm",
+"30cm",
+"50cm",
+"60cm"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 74,
+"q": "The near position light of vehicle are to be fixed nearest:",
+"options": [
+"to the left border of the vehicle",
+"to the right border of the vehicle",
+"at the back and near the left end of vehicle",
+"there is no correct answer"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 75,
+"q": "No light or reflector can be placed in such a manner that the lowest point of its lighting surface be below 0.40m from the ground level, the vehicle being empty but this provision is applicable neither to the following lights:",
+"options": [
+"fog lights",
+"reversing lights",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 76,
+"q": "When they are illuminated by road lights of the vehicles, the reflectors must be seen at night, by fine weather, by the driver of another vehicle at a distance of the following measures:",
+"options": [
+"100m",
+"150m",
+"200m",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 77,
+"q": "Except the mopeds and the unloaded vehicles with the speed on a flat surface cannot exceed 50km per hour, others motor vehicles must be equipped with a sounding alarm apparatus which can be heard on the following distance:",
+"options": [
+"200m",
+"150m",
+"100m",
+"50m"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 78,
+"q": "Outside the agglomerations, danger road signs and priority road signs must be placed at the following distance from the dangerous areas they signal:",
+"options": [
+"150 to 200m",
+"100 to 150m",
+"50 to 100m",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 79,
+"q": "Borders of the public highway or of the roadway must be signaled by reflectors, these devices must be so set up as the following manner:",
+"options": [
+"the users see on their right the red or orange reflectors only",
+"they see on their left the white ones only",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 80,
+"q": "Out of agglomerations, a driver of a car or a set of cars of which the maximum authorized weight exceeds 3,500kg or of which the overall length exceeds 10m must, except when it overtakes or gets ready to overtake another vehicle, leave between his car and that which proceeds him a sufficient interval to permit to vehicles which overtake it to cut in without danger in case of necessity. But this provision is however not applicable when:",
+"options": [
+"when a traffic is heavy",
+"on the position of the public way overtaking is forbidden",
+"A and B are both correct answers",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 81,
+"q": "The direction indicating lights must be constituted by fixed systems with flashing light disposed in pair at the back and the front faces of the vehicle. These lights are characterized by these colors:",
+"options": [
+"the front lights are white or yellows",
+"the back lights are red or orange",
+"A and B are both correct",
+"the front lights are orange"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 82,
+"q": "The sounding alarms of motor vehicles must emit a uniform sound, continuous and not shrilling, but these vehicles may be provided with a special alarm which does not meet the requirements of this paragraph:",
+"options": [
+"priority vehicles",
+"vehicles assigned to road maintenance",
+"the vehicles with the width exceed 2.10m",
+"A and B are both correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 83,
+"q": "The signal of no overtaking vehicles with an engine apart from those with two wheels without a side car has the symbols of these colors:",
+"options": [
+"white and black",
+"red and black",
+"blue",
+"A and B are both correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 84,
+"q": "The signal prohibiting vehicular traffic from both directions is characterized by a surface of the following color:",
+"options": [
+"black",
+"white",
+"blue",
+"red"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 85,
+"q": "The vehicles mentioned hereafter must be equipped with a sounding alarm apparatus can be heard at a distance of 20m:",
+"options": [
+"motorcycle",
+"moped",
+"motor vehicle",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 86,
+"q": "When it is not possible to see distinctly up to a distance of 200m, the formation of armed forces on march and of all other groups of pedestrians such as procession or school children groups in lines under the supervision of a school master, when they move on the roadway with more than one front, must be signaled by the white light held on the left side in front and red light held on the left side at the back but the sides of these units or groups must, where their length is superior to 6m, be signaled by:",
+"options": [
+"one or many white lights",
+"many yellow lights",
+"many orange lights",
+"All answers are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 87,
+"q": "The front side lights and the back ones of motor vehicles with the length and the width which, load included, do not exceed, respectively 6 and 2 m and to which no other vehicle is yoked, can be replaced by parking lights when these vehicles, at stop or in parking in suburbs are parallel to the border of the roadway. Those lights must have the following colors:",
+"options": [
+"white or yellow at the front side face",
+"red or yellow at the back side face",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 88,
+"q": "Loading lights must be visible at night by fine weather by the driver of vehicle being at least at:",
+"options": [
+"50m",
+"100m",
+"150m",
+"200m"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 89,
+"q": "Except on highways and roads for automobiles the section of the roadway situated beyond a wide and continuous white line drawn on the roadway to indicate its fictitious border, is reserved for:",
+"options": [
+"stopping only",
+"parking only",
+"stopping and parking",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 90,
+"q": "Provisional marks constituted by orange colored studs may replace the following lines:",
+"options": [
+"continuous white lines",
+"continuous and broken longitudinal white lines",
+"the parallels continuous and broken longitudinal lines",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 91,
+"q": "When it is not possible to see distinctly up to a distance of 200m, the presence on the public way, the animal pulled vehicles, hand carts, load or saddle animals and cattle must be signaled in the following way:",
+"options": [
+"in front, by a white light",
+"in front, by a yellow or orange light",
+"at the back, by red light",
+"all answers are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 92,
+"q": "Except local regulation or particular lay-out of the areas, every vehicle at stop or in parking, in case it is on pavement used by pedestrians, the driver must leave them at least a space of following measures to allow their passage without moving onto the roadway:",
+"options": [
+"one meter wide band",
+"two meters wide band",
+"0.50 meter wide band",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 93,
+"q": "The signal showing the place which is specifically reserved as a parking place for public transport is characterized by surface of this color:",
+"options": [
+"blue",
+"white",
+"red",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 94,
+"q": "The signal showing that the road, at the entrance of which it is placed, leads to a dead end is characterized by symbols of following colors:",
+"options": [
+"black and red",
+"black and white",
+"white and bleu",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 95,
+"q": "Every motor vehicle assigned to transport people of which the maximum number of the occupants is below six, including the driver must be endowed with security belts for the following persons:",
+"options": [
+"the driver",
+"the passenger occupying the front seat",
+"it can also have belts on rear seats",
+"all answers are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 96,
+"q": "Except to armed forces vehicles, a motor vehicle with armor or any other device permitting to be used in aggression or defense cannot move on the public way without a special permission. This permission is authorized by:",
+"options": [
+"the minister entrusted with transport or his delegate",
+"National Police",
+"minister of defense",
+"tax department"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 97,
+"q": "Between twilight and day break, where a herd comprises more than four heads of cattle or more than six of small animals, it will be signaled by:",
+"options": [
+"white light hand lamp or orange hand lamp borne in front of herd",
+"a red light hand lamp or yellow light hand lamp borne at the back of the herd",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 98,
+"q": "A convoy cannot occupy a distance of more than 500m. When this occurs, it must be divided into groups of vehicles occupying the way or a distance of a maximum 50m. However these provisions are not applicable to:",
+"options": [
+"vehicle of Rwanda national police",
+"Military vehicles forming a convoy in built-up areas",
+"A and B are both correct",
+"none of the answer is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 99,
+"q": "When a second vehicle is trailed by a yoked vehicle and that the length of the line overpasses 18m exclusive of the first vehicle shall, they process the following:",
+"options": [
+"the second vehicle must be accompanied by a conveyor",
+"two conveyors",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 100,
+"q": "The obligation to be equipped with a signaling system does not apply to the following vehicles:",
+"options": [
+"baby cars",
+"wheel chairs",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 101,
+"q": "Additional sign road which shows the camping and caravan site is characterized by the following colors:",
+"options": [
+"blue, white and black",
+"black, white and yellow",
+"green, yellow with symbol in black",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 102,
+"q": "The sign showing the place where the special rules governing traffic on highways start is characterized by the symbols in the following colors:",
+"options": [
+"white and black",
+"white and red",
+"white and yellow",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 103,
+"q": "When the execution of works completely or partially impedes the circulation on the public high way, the site is signaled as follows:",
+"options": [
+"A square white panel of at least 0.30m by side",
+"by a barrier placed at the right end",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 104,
+"q": "When the side of the execution of works occupies a wide of the roadway such as drivers to continue are obliged to leave their normal place, the compulsory direction is signaled by a signal placed at the edge of the site, near the circulation side. That signal is characterized by the following colors:",
+"options": [
+"surface in blue color and symbol in white",
+"perimeter in red, surface in white color and symbol in black",
+"perimeter in red, surface in white color and symbol in red and black",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 105,
+"q": "The sign which showing that special regulations are in force with regard to traffic within the premises of a port, bridge or an airport is characterized by:",
+"options": [
+"form of triangle, surface of white color and symbol in black color",
+"form of square, surface of blue color and symbol in white color",
+"form of circle in blue color and symbol in white color",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 106,
+"q": "The illuminating light of the registration plate number must allow by fine weather the registration plate number to be readable, at the following distance:",
+"options": [
+"150m",
+"50m",
+"20m",
+"10m"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 107,
+"q": "The signals for warning a temporary danger, the objective being to redirect or divert traffic, especially in cases of accidents or works on the road, are characterized by the following color:",
+"options": [
+"white and black",
+"white and yellow",
+"surface in white color only",
+"none of the answer is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 108,
+"q": "It is forbidden to hold up the normal traffic flow of other vehicles by these following:",
+"options": [
+"moving at an abnormally reduced speed",
+"by provoking a brisk braking not required for security reasons",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 109,
+"q": "When between twilight and day break or because of circumstances, it is not possible to see distinctly up to a distance of 200m, the presence on the public way of trailer coupled to the mopeds and motorbikes without a side car but except non ridden mopeds, must be signaled, when the bulk of this or its load makes the trailing vehicles light invisible by:",
+"options": [
+"a white light fixed at the back of the trailer",
+"a yellow light fixed at the back of the trailer",
+"an orange light fixed at the back of the trailer",
+"all answers are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 110,
+"q": "Bright lights of the vehicle must be switched off when:",
+"options": [
+"a roadway lighting is continuous and sufficient to permit the driver to see distinctly up to a distance of about 200m",
+"when a vehicle follows another at a distance of less than 100m except when the driver wants to show his intention of overtaking by lighting and switching of successively and quickly his bright lights",
+"a and b are both correct",
+"None of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 111,
+"q": "When a barrow or its loading does not allow him sufficient from visibility, the driver must:",
+"options": [
+"look for a conveyor to help him",
+"pull his vehicle",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 112,
+"q": "Except local regulations or particular lay out of the areas, every vehicle or animal at stop or in parking must be:",
+"options": [
+"not on the cycle track and on those parts of the roadway as especially for passage of conductors and pedestrians as well as on the road way at less than 5m pedestrians passage",
+"as close as possible to pavement when the roadway is provided with it and with distance from the vehicle's wheels and this pavement being less than 50cm",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 113,
+"q": "Any vehicle which is immobilized on the roadway must be signaled at distance by means of an appropriate device, placed on the most indicated place to warn others road users on time, but the following vehicles are not concerned:",
+"options": [
+"bicycles",
+"motorbike without a side car",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 114,
+"q": "Isolated pedestrians or in groups not organized and not conducted by an instructor, are obliged to use indicated pavements and shoulders, except central reservation separating two roadways which can be used by:",
+"options": [
+"pedestrians who want to mark a stop during the crossing the roadways",
+"the big groups of pedestrians",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 115,
+"q": "A convoy can not occupy a distance of more than 500m when this occurs, it must be divided into groups of vehicles occupying the way of a distance of following measures:",
+"options": [
+"maximum 50m",
+"maximum 100m",
+"maximum 150m",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 116,
+"q": "The signals showing a junction between the road and a railway must always be lit or reflecting so as to be visible, when the weather is clear, at a distance of at least the following distance:",
+"options": [
+"200m",
+"250m",
+"300m",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 117,
+"q": "Posts placed at the limits of traffic islands and situated on the roadway, as well as posts and other devices used for traffic channeling are painted in:",
+"options": [
+"a reflecting yellow color",
+"a reflecting white color",
+"a reflecting orange color",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 118,
+"q": "In order to get out of particularly muddy and slippery areas the bandages of vehicle can be provided with:",
+"options": [
+"protrusion",
+"none skid chains",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 119,
+"q": "When the loading is constituted with cereals, raw coffee, wooden charcoal, non-ginned cotton, straw, grass, width can reach 2.75m but when the loading is constituted as above and forwarded within a radius of 25km from the place of loading, except in built up areas, its width can reach the following measures:",
+"options": [
+"4m",
+"3.50m",
+"3m",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 120,
+"q": "In urban areas as well as on national roads determined by the Minister having transports in his duties, the maximum load weight for any lorry shall in no case exceed the following measures:",
+"options": [
+"10 tones",
+"16 tones",
+"24 tones",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 121,
+"q": "Where, because of the areas layout, the distance which separates the signal from the dangerous areas is less than 150m, that distance is shown by the following additional signal:",
+"options": [
+"square with the surface in white color",
+"a rectangle with the surface in white color",
+"a triangle with the perimeter in red color",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 122,
+"q": "Cross-road light, of white or yellow color must at night by fine weather, permit the illumination of the roadway at the following distance in front of the vehicle:",
+"options": [
+"100m",
+"50m",
+"40m",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 123,
+"q": "Every fact requiring changing any mention relating to the owner of the certificate or to the identification of the vehicle must be notified at the tax department, either orally or by registered letter. These must be done in this period:",
+"options": [
+"2 months",
+"one month",
+"15 days",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 124,
+"q": "A dangerous spot may be indicated by a yellow intermittent light to mean authorization to pass the signal very cautiously. What does it modify on the priority rules?",
+"options": [
+"it absolutely does not modify the priority rules",
+"It gives the priority to the drivers facing it.",
+"it gives the priority to the drivers of long vehicles",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 125,
+"q": "Trailers, the overall width of which does not exceed 0.80m may be provided only with one reflector if they are coupled to the following vehicles:",
+"options": [
+"Moped",
+"motorbike with a side car",
+"bicycle",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 126,
+"q": "Road lights, of white or yellow color for motor vehicles with engine capacity not exceeding 125 cubic centimeters, must at night, by fine weather, permit the illuminating of the roadway at a distance of:",
+"options": [
+"100m",
+"75m",
+"25m",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 127,
+"q": "When between twilight and day break or because of circumstances, it is not possible to see distinctly up to a distance of 200m the vehicles or loads of which the width is over 2.50m on public way are signaled by:",
+"options": [
+"at the back by two red light",
+"in front and at the backend on each side and if need be, on the extreme lateral protrusion of the vehicles or of its load, by orange or yellow marker light",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 128,
+"q": "The section of the roadway situated beyond a wide and continuous white line which indicates its fictitious is reserved for:",
+"options": [
+"stopping only",
+"stopping and parking even on highways and roads for automobiles",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 130,
+"q": "Chains and other articulated or floating accessories, excluding parking lights, must be fixed to the vehicle so as not to come out, in their swaying, of the extreme contour of the vehicle and these accessories cannot be trailed along on the ground but this prohibition is any way not applicable to the followings:",
+"options": [
+"farming equipment",
+"vehicle transporting flammable substances",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 131,
+"q": "on vehicles or a line of vehicles, the overhanging must be:",
+"options": [
+"back: 3m",
+"front: 2.70m",
+"A and B are correct",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 132,
+"q": "Duly authorized exemption except, it is forbidden to put or maintain in circulation on the public highway an automobile vehicle or a trailer of which the total weight in load exceeds the maximum weight authorized by the registration certificate, but these provisions are not applicable to:",
+"options": [
+"the vehicles for Police",
+"agricultural vehicles",
+"road construction equipment",
+"all answers are correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 133,
+"q": "Except an authorization issued by the minister having transports in his duties, it is prohibited to put in circulation the line of more than three vehicles, but these are not applicable to the lines of farm vehicles moving within a radius of 25km from the farm, line of vehicles for publicity, but the total of length of these lines cannot exceed the following measures:",
+"options": [
+"25m",
+"50m",
+"35m",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 134,
+"q": "Tricycles with engine must be equipped with the following light:",
+"options": [
+"two position light in front and two position lights at the back",
+"two back reflectors",
+"A and B are correct",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 135,
+"q": "The prohibition and obligation signals concern only:",
+"options": [
+"in junction",
+"that part of the public way comprised between the place where they are placed and the next junction, on the side of the way on which they are placed",
+"these signals are placed according the distance between them only",
+"B and C are both correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 136,
+"q": "An additional sign showing the break down service station are characterized by these colors:",
+"options": [
+"blue, white and red",
+"white, black and blue",
+"red, white and black",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 137,
+"q": "The sign showing the length of the dangerous section or the area within which the prescription shown is applicable, is characterized by surface and symbols with the following colors:",
+"options": [
+"surface of white color and symbol of blue color",
+"surface of blue color and symbol in white",
+"surface of blue color, symbol of white and black color",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 138,
+"q": "A broken yellow line drawn on the actual border of the roadway, pavement or raised shoulder means that:",
+"options": [
+"stop is prohibited on the roadway along side that line",
+"stop and parking are both prohibited on the road way along side that line",
+"parking and stop are allowed on the road way along side that line",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 139,
+"q": "On vehicle or line of vehicles, the overhanging is limited to the following measures:",
+"options": [
+"back: 3.40m",
+"front: 2.50m",
+"A and B are correct",
+"None of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 171,
+"q": "In urban areas as well as on national roads determined by the Minister having transports in his duties, the maximum weights authorized by vehicle or train of vehicles for triple axle are:",
+"options": [
+"10 tones",
+"16 tones",
+"24 tones",
+"53 tones"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 172,
+"q": "When the distance between the front of a trailer and the back of the towing vehicle exceeds 3m, when the lighting of the vehicle is required, their fastening must be signaled by:",
+"options": [
+"a red piece of cloth measuring at least 0.5m by side",
+"an orange colored light laterally visible, unless fastening is enlightened",
+"A and B are both the correct answers",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 173,
+"q": "The brake light of red color, must, without dazzling, be visible to the following distance:",
+"options": [
+"at night, by fine weather, at a minimum distance of 200m",
+"by daylight, by sunny weather, at a minimum distance of 50m",
+"at night, at a minimum distance of 200m, by fine weather",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 174,
+"q": "It is forbidden to add outside a motor vehicle or a moped the following:",
+"options": [
+"unnecessary ornaments",
+"accessories as presenting heaps or protrusions which can constitute a danger for other users of the public way",
+"A and B are both the correct answers",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 175,
+"q": "Every fact requiring to change any mention relating to the owner of the certificate or to the identification of the vehicle must be notified at the tax department, either orally or by a registered letter within the following days:",
+"options": [
+"5 days",
+"8 days",
+"15 days",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 176,
+"q": "Overtaking is performed on",
+"options": [
+"the right side only",
+"every time on the left side",
+"the right side only to overtake an animal",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 177,
+"q": "Where the width of the public roadway used by vehicles is inadequate to permit them to cross without danger, users have to:",
+"options": [
+"to move to the verges",
+"to stop",
+"facilitate each other's passage",
+"to remove danger"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 178,
+"q": "The driver who moves on a roadway may, when the width of this road does not permit to perform easily the overtaking, move to the verges but he must respect:",
+"options": [
+"the speed of the pedestrians",
+"the width of the road",
+"the numbers of pedestrians",
+"no correct answer"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 179,
+"q": "A plate mentioning the maximum speed that the vehicle cannot take is authorized to the vehicles with the following authorized weight:",
+"options": [
+"Weight exceeds 1 tones",
+"Weight exceeds 2 tones",
+"Weight exceeds 24 tones",
+"No correct answer"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 180,
+"q": "In the absence of more restrictive regulations, maximum speed of motorcycles is:",
+"options": [
+"25km/h",
+"70km/h",
+"40km/h",
+"no correct answer"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 181,
+"q": "Out of agglomeration, the maximum speed of the moped is",
+"options": [
+"50km/h",
+"40km/h",
+"30km/h",
+"none"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 182,
+"q": "Stopping and parking are forbidden particularly in the following space:",
+"options": [
+"on the cycle track",
+"the parts of the road way delineated especially for the passage of drivers",
+"A and B are the correct answers",
+"all answers are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 183,
+"q": "Bright lights of the vehicle must be switched off when:",
+"options": [
+"a roadway lighting is continuous and sufficient to permit the driver to see distinctly up to a distance of about 200m",
+"when a vehicle is going to cross another",
+"on agglomeration,",
+"All answers are correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 184,
+"q": "The width of trailer when is trailed by a bicycle or a moped cannot exceed the following limits:",
+"options": [
+"75 cm",
+"125cm",
+"45cm",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 185,
+"q": "The device used for slowing down or stopping the vehicle in the event of the in service braking failure called:",
+"options": [
+"in service braking",
+"parking brakes",
+"emergency braking",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 186,
+"q": "No braked surface can be uncoupled from wheels except:",
+"options": [
+"when uncoupled works on the service braking",
+"when uncoupling is only temporary",
+"where for the parking, brakes uncoupling is not possible without the action of the driver",
+"all answers are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 187,
+"q": "A vehicle cannot be equipped with more than two lights of the same denomination except:",
+"options": [
+"size light",
+"indicator light",
+"gauge light",
+"all responses are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 188,
+"q": "The rear position light of vehicle is to be fixed nearest:",
+"options": [
+"to the right border of the vehicle",
+"at the back of vehicle",
+"near the left end of the vehicle",
+"all answers are correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 189,
+"q": "How many windscreen wipers at minimum must every vehicle be provided with?",
+"options": [
+"2",
+"3",
+"1",
+"non correct answer"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 190,
+"q": "Motor vehicles and mopeds wheels as well as those of their trailers must be provided with tyre bandages the marks of which cannot have a depth lower than one millimeter on their entire rolling surface. However this provision does not apply on:",
+"options": [
+"the vehicles the speed of which, if unloaded, cannot exceed 25km per hour",
+"the vehicles for RNP when they are in traffic within a maximum radius of 25km",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 191,
+"q": "It is forbidden the circulation of self-propelling vehicles and trailers pulled by these vehicles, when their wheels are provided with either rigid bandages or elastic bandages of less than 0.04 meter thick. But these provisions do not apply on the following vehicles:",
+"options": [
+"Military vehicles",
+"Agricultural vehicles when they are in traffic within a maximum radius of 25km",
+"the vehicles of national police",
+"no correct answer"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 192,
+"q": "The white lines parallel to the roadway are used by:",
+"options": [
+"bicycles and mopeds",
+"the barrows and cycles",
+"Pedestrians' crossings",
+"None of the answers is correct."
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 193,
+"q": "When the other seats are available in the car, it is forbidden to carry on the front seat the children of less than the following age:",
+"options": [
+"10 years",
+"12 years",
+"7 years",
+"no correct answer"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 194,
+"q": "In case of definitive out of use or definitive export of vehicle, the registration plates must be removed and sent back to the tax department service, this operation must be done in a period of:",
+"options": [
+"2 weeks",
+"2 months",
+"1 month",
+"there is no correct answer"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 195,
+"q": "Borders of the public highway or the roadway must be signaled by reflectors, these devices must be so set up to let users see these for the following manner:",
+"options": [
+"they see on their left the white reflectors only",
+"on their right they see only the red or orange reflectors",
+"A and B are the correct answers",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 196,
+"q": "Where traffic deviation is required, it is signaled at the beginning and all the way long by means of an indication signal:",
+"options": [
+"black",
+"white",
+"red",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 197,
+"q": "On the roads designated by the Minister having public way in his remit, the danger signals and indication signals must be made visible between night fall and day break by means either of special lighting or reflecting products. When the weather is clear visibility distance must be at least:",
+"options": [
+"50m",
+"120m",
+"150m",
+"none of them"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 198,
+"q": "A fastening can only be used in cases of circumstances outside one's control and exclusively for pulling a vehicle all the way to the place of repair at a speed which in any case cannot exceed 20km per hour. These fastenings must be shown in the following manner:",
+"options": [
+"a red piece of cloth measuring a minimum 0.50m by side",
+"an orange colored light laterally visible",
+"a square white panel of at least 0.30m by side",
+"none these"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 199,
+"q": "Except in urban areas, on the other roads as determined by the minister having transports in his duties, the maximum weight authorized by articulated vehicles with three axle is:",
+"options": [
+"12 tones",
+"16 tones",
+"10 tones",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 200,
+"q": "Except in urban areas, on the other roads as determined by the minister having transport in his duties, the maximum weight authorized for three and more axle vehicles excepting semi-trailers is:",
+"options": [
+"10 tones",
+"12 tones",
+"15 tones",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 201,
+"q": "In absence of more restrictive regulations, maximum speed for vehicles which by design have no suspension is:",
+"options": [
+"70 km/h",
+"40 km/h",
+"25 km/h",
+"20 km/h"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 202,
+"q": "In absence of more restrictive regulations, maximum speed for vehicles which by decision have no suspension is:",
+"options": [
+"20 km/h",
+"40 km/h",
+"35 km/h",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 203,
+"q": "On these spaces, parking a vehicle is forbidden:",
+"options": [
+"in front of entrances and exits of public passages",
+"on the roadway at places where it is divided into traffic bands materialized by non-continuous marks",
+"A and B are both correct",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 204,
+"q": "Between twilight and daybreak or because of circumstances such as fog or heavy rain it is not possible to see distinctly up to distance of 200m, the presence on the public way of groups of pedestrians such as processions or school children groups in line under the supervision of a school master, when they move on the roadway with more than one front person, must be signaled in the following way:",
+"options": [
+"in front by a yellow light held on the left side",
+"at the back by a red light held on the left side, by the individual in the nearest position to the axis of the roadway",
+"A and B are correct",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 206,
+"q": "The vehicles with the width which is superior to the following measures must be provided with loading light:",
+"options": [
+"3m",
+"2.50m",
+"1.10m",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 207,
+"q": "No light or reflector can be placed in such a manner that the lowest point of its lighting surface be below the following measures from the ground level, the vehicle being empty:",
+"options": [
+"30cm",
+"20 cm",
+"50cm",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 208,
+"q": "For an empty vehicle, the highest point of the illuminating area of the front and back position lights cannot be at more than the following measurements above the ground:",
+"options": [
+"1.50m",
+"1.75m",
+"1.80m",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 209,
+"q": "Every motor vehicle or trailer pulled by such a vehicle shall be provided with a green light permitting the driver to signal that he has noticed the warning of the person who is ready to overtake him. This light must be placed as follows:",
+"options": [
+"it must be fixed nearest to the left border of vehicle",
+"it must be at the back left edge of vehicle",
+"it must be fixed at the back nearest the right",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 210,
+"q": "The width of the loading on motorcycles with a side car and trailer pulled by this cannot exceed the following measures of width of the vehicle when not loaded:",
+"options": [
+"1.25m",
+"30cm",
+"75cm",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 211,
+"q": "Your mobile phone rings while you are travelling. What should you do?",
+"options": [
+"Respond or stop immediately",
+"Ignore It",
+"Pull up at the nearest kerb and answer the phone call.",
+"B and c are correct answers"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 212,
+"q": "Your mobile phone rings while you are travelling. What should you do?",
+"options": [
+"Respond or stop immediately",
+"Ignore It",
+"Pull up at the nearest kerb and answer the phone call.",
+"B and c are correct answers"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 213,
+"q": "What should you do before making a U-turn?",
+"options": [
+"Give arm signal as well as using your indicators",
+"Check signal to see that U-turns are permitted",
+"A and B are correct",
+"None of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 214,
+"q": "In which of these situations should you avoid overtaking?",
+"options": [
+"Just after a bend and wait for a safer place to pull out",
+"In a one-way street",
+"On a 30 km/h road",
+"When approaching a dip in the road"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 215,
+"q": "What should you do when you're approaching traffic lights that have been on yellow color?",
+"options": [
+"Accelerate hard",
+"Maintain speed",
+"Be ready to stop",
+"Brake hard"
+],
+"answer": 2,
+"image": "215.png",
+"imageEssential": false
+},
+{
+"id": 216,
+"q": "You're following a trailer. Why should you stay at a safe distance behind it?",
+"options": [
+"You'll allow the driver to see you in their mirrors",
+"You'll be able to corner more quickly",
+"You'll help the large vehicle to stop more easily",
+"You'll keep out of the wind better"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 217,
+"q": "You're waiting to turn right at the end of a road. Your view is obstructed by stopped vehicles. What should you do?",
+"options": [
+"Stop and then move forward slowly and carefully for a clear view",
+"Move quickly to where you can see so you block traffic from one direction",
+"Wait for pedestrians to let you know when it's safe for you to emerge",
+"Turn your vehicle around immediately and find another junction to use"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 218,
+"q": "You're on a long motorway journey. What should you do if you start to feel sleepy?",
+"options": [
+"Play some loud music",
+"Drive faster to complete your journey sooner",
+"Leave the motorway and stop in a safe place",
+"None of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 219,
+"q": "Why should you switch your lights on when it first starts to get dark?",
+"options": [
+"To make your dials easier to see",
+"So others can see you more easily",
+"So that you blend in with other drivers",
+"Because the street lights are lit"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 220,
+"q": "You're travelling a public highway. How should you pass the cyclist?",
+"options": [
+"Sound your horn as you pass",
+"Keep close to them as you pass",
+"leave adequate space as you pass",
+"Change down one gear before you pass"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 221,
+"q": "You can't see clearly behind when reversing. What should you do?",
+"options": [
+"Look in the nearside mirror",
+"Open the window to look behind",
+"Open the door to look behind",
+"Ask someone to guide you"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 222,
+"q": "You're being followed by an ambulance showing flashing lights. What should you do?",
+"options": [
+"Pull over as soon as it's safe to do so",
+"Accelerate hard to get away from it",
+"Maintain your speed and course",
+"Brake harshly and stop well out into the road"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 223,
+"q": "You wish to turn left ahead. Why should you take up the correct position in good time?",
+"options": [
+"To allow other drivers to pull out in front of you",
+"To give a better view into the road that you're joining",
+"To help other road users know what you intend to do",
+"To allow drivers to pass you on the left"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 224,
+"q": "You're driving behind a trailer. What should you do if it signals right but you are heading to the left?",
+"options": [
+"Slow down and let the trailer turn",
+"Drive on, keeping to the right",
+"Overtake on the right of it",
+"Hold your speed and sound your horn"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 225,
+"q": "You're approaching a zebra crossing. Pedestrians are waiting to cross. What should you do?",
+"options": [
+"Give way to the elderly and infirm only",
+"Slow down and prepare to stop",
+"Use your headlights to indicate they can cross",
+"Wave at them to cross the road"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 226,
+"q": "You're about to overtake a slow-moving motorcyclist. Which one of these signs would make you take special care?",
+"options": [
+"One-way ahead sign",
+"No left turn sign",
+"Crosswind warning sign",
+"No stopping sign"
+],
+"answer": 2,
+"image": "226.png",
+"imageEssential": true
+},
+{
+"id": 227,
+"q": "Why should you always reduce your speed when travelling in fog?",
+"options": [
+"The brakes don't work as well",
+"You'll be dazzled by other headlights",
+"It's more difficult to see what's ahead",
+"The engine will take longer to warm up"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 228,
+"q": "What should you do if you park on the road when it's foggy?",
+"options": [
+"Leave sidelights switched on",
+"Leave dipped headlights and fog lights switched on",
+"Leave dipped headlights switched on",
+"Leave main-beam headlights switched on"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 229,
+"q": "What does this sign mean?",
+"options": [
+"Minimum speed 30km/h",
+"End of compulsory maximum speed",
+"End of minimum speed",
+"Maximum speed 30km/h"
+],
+"answer": 1,
+"image": "229.png",
+"imageEssential": true
+},
+{
+"id": 230,
+"q": "What's the meaning of this sign?",
+"options": [
+"No entry",
+"No parking",
+"National speed limit",
+"School crossing patrol"
+],
+"answer": 1,
+"image": "230.png",
+"imageEssential": true
+},
+{
+"id": 231,
+"q": "On a two-lane roadway, what is the left-hand lane used for?",
+"options": [
+"Overtaking only, never turning right",
+"Overtaking or turning left",
+"Fast-moving traffic only",
+"Turning right only, never overtaking"
+],
+"answer": 1,
+"image": "231.png",
+"imageEssential": false
+},
+{
+"id": 232,
+"q": "Where may you overtake on a one-way road street?",
+"options": [
+"on the left-hand side",
+"Overtaking isn't allowed",
+"Only on the right-hand side",
+"On either the right or left"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 233,
+"q": "Whose person's signal do we have to obey among the following?",
+"options": [
+"A motorcyclist",
+"A pedestrian",
+"A qualified agent",
+"A bus driver"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 234,
+"q": "What's the meaning of this sign?",
+"options": [
+"end of all local restrictions imposed on moving vehicles",
+"No waiting on the roadway",
+"National speed limit applies",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": "234.png",
+"imageEssential": true
+},
+{
+"id": 235,
+"q": "Traffic signs giving orders are generally which shape?",
+"options": [
+"Pentagon/arrow shape",
+"Triangle",
+"Circle",
+"Rectangle"
+],
+"answer": 2,
+"image": "235.png",
+"imageEssential": true
+},
+{
+"id": 236,
+"q": "Which sign means no motor vehicles are allowed?",
+"options": [
+"No stopping sign (blue circle with red X)",
+"No motor vehicles sign (motorcycle and car in red circle)",
+"End of restrictions sign (circle with diagonal band)",
+"No overtaking sign (two cars in red circle)"
+],
+"answer": 1,
+"image": "236.png",
+"imageEssential": true
+},
+{
+"id": 237,
+"q": "What does this sign mean?",
+"options": [
+"You have priority",
+"No motor vehicles",
+"Two-way traffic",
+"No overtaking"
+],
+"answer": 3,
+"image": "237.png",
+"imageEssential": true
+},
+{
+"id": 238,
+"q": "You see this sign ahead. What does it mean?",
+"options": [
+"National speed limit applies",
+"Waiting restrictions apply",
+"No parking",
+"No entry"
+],
+"answer": 2,
+"image": "238.png",
+"imageEssential": true
+},
+{
+"id": 239,
+"q": "What does this sign mean?",
+"options": [
+"Ring road",
+"Mini-roundabout",
+"Roundabout",
+"All answers are correct"
+],
+"answer": 2,
+"image": "239.png",
+"imageEssential": true
+},
+{
+"id": 240,
+"q": "What does this sign mean?",
+"options": [
+"hump bridge",
+"irregular surface",
+"entrance to tunnel",
+"soft verges"
+],
+"answer": 1,
+"image": "240.png",
+"imageEssential": true
+},
+{
+"id": 241,
+"q": "What does this sign mean?",
+"options": [
+"Lateral winds",
+"Road noise",
+"Airport",
+"all the answers are correct"
+],
+"answer": 0,
+"image": "241.png",
+"imageEssential": true
+},
+{
+"id": 242,
+"q": "What does this sign mean?",
+"options": [
+"end of the road for pedestrians",
+"end of a highway",
+"a and b are correct",
+"no through road"
+],
+"answer": 1,
+"image": "242.png",
+"imageEssential": true
+},
+{
+"id": 243,
+"q": "What does this sign mean?",
+"options": [
+"End of two-lane road",
+"Tall bridge",
+"Narrowing road",
+"End of narrow bridge"
+],
+"answer": 2,
+"image": "243.png",
+"imageEssential": true
+},
+{
+"id": 244,
+"q": "What does this sign mean?",
+"options": [
+"T-junction",
+"no through road",
+"telephone box ahead",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": "244.png",
+"imageEssential": true
+},
+{
+"id": 245,
+"q": "What does this sign mean?",
+"options": [
+"School crossing patrol",
+"No pedestrian allowed",
+"Pedestrian zone- no vehicles",
+"Approaching a zebra crossing"
+],
+"answer": 3,
+"image": "245.png",
+"imageEssential": true
+},
+{
+"id": 246,
+"q": "What must you do when you see this sign?",
+"options": [
+"Stop only if traffic is approaching",
+"Stop even if the road is clear",
+"Stop only if children are waiting to cross",
+"Stop only if a red light is showing"
+],
+"answer": 1,
+"image": "246.png",
+"imageEssential": true
+},
+{
+"id": 247,
+"q": "What does this sign mean?",
+"options": [
+"Emerging into a quay or a river bank or approaching a ferry",
+"Steep hill downwards",
+"Uneven road surface",
+"Over flooding road"
+],
+"answer": 0,
+"image": "247.png",
+"imageEssential": true
+},
+{
+"id": 248,
+"q": "What does this sign mean?",
+"options": [
+"Motorcycles only",
+"No car",
+"Cars only",
+"No entry for bicycles"
+],
+"answer": 3,
+"image": "248.png",
+"imageEssential": true
+},
+{
+"id": 249,
+"q": "Which shape is used for a 'give way' sign?",
+"options": [
+"Black triangle outline (pointing up)",
+"Red circle",
+"Red octagon",
+"Red triangle (pointing up)"
+],
+"answer": 3,
+"image": "249.png",
+"imageEssential": true
+},
+{
+"id": 250,
+"q": "What does this sign mean?",
+"options": [
+"Approaching a level crossing with barriers",
+"Barriers road ahead",
+"Level crossing without gate or barrier",
+"Cattle grid ahead"
+],
+"answer": 0,
+"image": "250.png",
+"imageEssential": true
+},
+{
+"id": 251,
+"q": "What does this sign mean?",
+"options": [
+"Adverse camber",
+"Dangerous slope",
+"Uneven road",
+"Steep climb"
+],
+"answer": 1,
+"image": "251.png",
+"imageEssential": true
+},
+{
+"id": 252,
+"q": "What does this sign mean?",
+"options": [
+"Turn left for parking area",
+"No through road",
+"No entry for traffic turning left",
+"Turn left for ferry terminal"
+],
+"answer": 1,
+"image": "252.png",
+"imageEssential": true
+},
+{
+"id": 253,
+"q": "What does a red traffic light mean?",
+"options": [
+"You stop unless turning left",
+"Stop, if you're able to brake safely",
+"Prohibition to move beyond the signal",
+"Go if your exit from the junction is blocked"
+],
+"answer": 2,
+"image": "253.png",
+"imageEssential": false
+},
+{
+"id": 254,
+"q": "What does a yellow light mean?",
+"options": [
+"Prepare to go",
+"Prohibition to move beyond the stop line or, in default of any stop line, the signal itself",
+"A and B are correct",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": "254.png",
+"imageEssential": false
+},
+{
+"id": 255,
+"q": "What does a green light mean?",
+"options": [
+"Prepare to go",
+"Authorization to pass the signal",
+"Stop if your exit from the junction is blocked",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": "255.png",
+"imageEssential": false
+},
+{
+"id": 256,
+"q": "What does this broken white line mean?",
+"options": [
+"It's forbidden to cross this line",
+"No stopping allowed",
+"You're approaching a hazard",
+"No overtaking allowed"
+],
+"answer": 0,
+"image": "256.png",
+"imageEssential": true
+},
+{
+"id": 257,
+"q": "What does this sign mean?",
+"options": [
+"Two way traffic",
+"Two-way traffic straight ahead",
+"showing an area where cyclists are supposed to entered",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": "257.png",
+"imageEssential": true
+},
+{
+"id": 258,
+"q": "What does this sign mean?",
+"options": [
+"Service area 30 miles ahead",
+"Maximum speed 30km/h",
+"Minimum speed 30 km/h",
+"Lay-by 30 miles ahead"
+],
+"answer": 2,
+"image": "258.png",
+"imageEssential": true
+},
+{
+"id": 259,
+"q": "What does this sign mean?",
+"options": [
+"Slippery road ahead",
+"Tires liable to punctures ahead",
+"Approaching a danger but undefined danger",
+"Service area ahead"
+],
+"answer": 2,
+"image": "259.png",
+"imageEssential": true
+},
+{
+"id": 260,
+"q": "What does this sign mean?",
+"options": [
+"Cattle grid ahead",
+"Railway ahead",
+"Level crossing without gate or barrier",
+"Level crossing with gate or barrier"
+],
+"answer": 2,
+"image": "260.png",
+"imageEssential": true
+},
+{
+"id": 261,
+"q": "At this junction, there's a 'stop' sign and a solid white line on the road surface. Why is there a 'stop' sign here?",
+"options": [
+"Speed on the major road is derestricted",
+"It's a busy junction",
+"Visibility along the major roadway is limited",
+"There are hazard warning lines in the center of the road"
+],
+"answer": 2,
+"image": "261.png",
+"imageEssential": true
+},
+{
+"id": 262,
+"q": "Which of these is needed before you can legally use a vehicle on the road?",
+"options": [
+"A valid driving license, Proper insurance and Motor-vehicle certificate",
+"Identity certificate",
+"Proper insurance",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 263,
+"q": "A new vehicle will need its first Motor-vehicle inspection test when it's how old?",
+"options": [
+"After One year",
+"After Two year",
+"A and B are correct",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 264,
+"q": "When should you use simultaneously all the vehicle's indicator lights?",
+"options": [
+"when you want to warn other road users",
+"when your vehicle is causing a temporary obstruction",
+"A and B are correct",
+"None of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 265,
+"q": "You are the first person to arrive at an incident where people are badly injured. You've switched on indicator warning lights. What else should you do?",
+"options": [
+"make sure that an ambulance is called",
+"stop the other cars and ask drivers for help",
+"A and B are correct",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 266,
+"q": "A tanker is involved in collision. Which sign shows that it's carrying dangerous goods?",
+"options": [
+"A rectangular orange sign reading LONG VEHICLE",
+"An orange Hazchem panel showing code 2YE / 1089 with a flammable dangerous goods diamond",
+"A red warning triangle with an exclamation mark",
+"A red and white striped triangular marker"
+],
+"answer": 1,
+"image": "266.png",
+"imageEssential": true
+},
+{
+"id": 267,
+"q": "You're involved in a collision. Afterwards, which document may the police ask you to produce?",
+"options": [
+"Vehicle registration",
+"Driving license",
+"Provisional driving license",
+"Vehicle service record"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 268,
+"q": "You've broken down on a two-way road. You have a warning triangle. At least how far from your vehicle should you place the warning triangle?",
+"options": [
+"5 meters",
+"25 meters",
+"45 meters",
+"100 meters"
+],
+"answer": 1,
+"image": "268.png",
+"imageEssential": false
+},
+{
+"id": 269,
+"q": "Whoever pushes a motorcycle by hand must be considered as:",
+"options": [
+"pedestrian",
+"driver",
+"passenger",
+"a and b are correct"
+],
+"answer": 1,
+"image": "269.png",
+"imageEssential": false
+},
+{
+"id": 270,
+"q": "Triangular Shape road signs announce:",
+"options": [
+"Danger",
+"Prohibition",
+"Obligation",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": "270.png",
+"imageEssential": false
+},
+{
+"id": 271,
+"q": "This signal means:",
+"options": [
+"Right of way",
+"Priority at the Next cross road",
+"Danger at the Next cross road",
+"a and b are correct"
+],
+"answer": 0,
+"image": "271.png",
+"imageEssential": true
+},
+{
+"id": 272,
+"q": "This signal means:",
+"options": [
+"No entry for pedestrians",
+"Announces a pedestrian street",
+"Announces a pedestrian crossing",
+"b and c are correct"
+],
+"answer": 0,
+"image": "272.png",
+"imageEssential": true
+},
+{
+"id": 273,
+"q": "Outside an agglomeration, you first encounter the two left-hand signals. Further, we announce the end of the work. Beyond that signal how fast do you roll?",
+"options": [
+"70 km/h",
+"50 km/h",
+"40 km/h",
+"80 km/h"
+],
+"answer": 3,
+"image": "273.png",
+"imageEssential": true
+},
+{
+"id": 274,
+"q": "This signal indicates:",
+"options": [
+"A hotel",
+"A hospital",
+"A helicopter landing zone",
+"b and c are correct"
+],
+"answer": 1,
+"image": "274.png",
+"imageEssential": true
+},
+{
+"id": 275,
+"q": "The two parallel discontinuous lines of white color at the edges of the road delimit:",
+"options": [
+"an area reserved for stopping and parking",
+"a pedestrian zone",
+"Cycle track",
+"a and b are correct"
+],
+"answer": 2,
+"image": "275.png",
+"imageEssential": false
+},
+{
+"id": 276,
+"q": "This signal prevents any driver from overtaking a car:",
+"options": [
+"On the right",
+"On the left",
+"on the right and the left",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": "276.png",
+"imageEssential": true
+},
+{
+"id": 277,
+"q": "This signal prohibits overtaking on the left for the following vehicles:",
+"options": [
+"of any vehicle",
+"of any motor vehicle",
+"of any vehicle with an engine apart from those with two wheels without a side car",
+"no correct answer"
+],
+"answer": 2,
+"image": "277.png",
+"imageEssential": true
+},
+{
+"id": 278,
+"q": "This signaling authorizes me to move on:",
+"options": [
+"yes",
+"yes, by giving way to pedestrians",
+"yes, by giving way to oncoming drivers",
+"no"
+],
+"answer": 3,
+"image": "278.png",
+"imageEssential": true
+},
+{
+"id": 279,
+"q": "On a winding road, when do I brake?",
+"options": [
+"Before each turn",
+"in every turn",
+"after each turn",
+"no correct answer"
+],
+"answer": 0,
+"image": "279.png",
+"imageEssential": false
+},
+{
+"id": 280,
+"q": "What signal obliges me to give way:",
+"options": [
+"The signal A19",
+"The signal B5",
+"The signal B6",
+"No correct answer"
+],
+"answer": 1,
+"image": "280.png",
+"imageEssential": true
+},
+{
+"id": 281,
+"q": "This danger signal announces me:",
+"options": [
+"flying gravel",
+"ruts with risk of aquaplaning",
+"a slippery road",
+"a and b are correct"
+],
+"answer": 0,
+"image": "281.png",
+"imageEssential": true
+},
+{
+"id": 282,
+"q": "Circulating on a cyclo, you see one of your acquaintances. She asks you to leave her some streets further. You are 18 but do not have a second helmet. Could you?",
+"options": [
+"yes",
+"yes, except for a long journey",
+"yes, except for a short trip",
+"No"
+],
+"answer": 3,
+"image": "282.png",
+"imageEssential": false
+},
+{
+"id": 283,
+"q": "What signal gives you priority at future intersections:",
+"options": [
+"the signal B3",
+"the signal A22a",
+"the signal A20",
+"all the answers are correct"
+],
+"answer": 0,
+"image": "283.png",
+"imageEssential": true
+},
+{
+"id": 284,
+"q": "Before overtaking a moped, I have to put my flashing on the left:",
+"options": [
+"yes always",
+"yes, when other vehicles follow me",
+"yes, when other vehicles coupled or has more than 2 wheels followed me",
+"no, never to overtake a two-wheeler"
+],
+"answer": 0,
+"image": "284.png",
+"imageEssential": false
+},
+{
+"id": 285,
+"q": "I can overtake a driver who stops in front of a pedestrian crossing:",
+"options": [
+"yes",
+"yes, after a quick blow of horn",
+"yes, when other vehicles follow me",
+"No"
+],
+"answer": 3,
+"image": "285.png",
+"imageEssential": false
+},
+{
+"id": 286,
+"q": "At the height of this elevated device:",
+"options": [
+"I can overtake any vehicle if I moderate my speed",
+"I can only overtake two-wheelers (bike, cyclo ...)",
+"any overtaking by the left is forbidden",
+"a and b are correct"
+],
+"answer": 2,
+"image": "286.png",
+"imageEssential": true
+},
+{
+"id": 287,
+"q": "In case of accident, aggression ... which emergency number can call the emergency service:",
+"options": [
+"911",
+"100",
+"112",
+"131"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 288,
+"q": "I arrive first at the scene of an accident with injuries. My first concern is to:",
+"options": [
+"take the wounded out of the vehicles",
+"give them to drink",
+"report the accident and notify the rescue",
+"no correct answer"
+],
+"answer": 2,
+"image": "288.png",
+"imageEssential": false
+},
+{
+"id": 289,
+"q": "When our vehicle is being overtaken",
+"options": [
+"We shall not increase speed",
+"We can increase speed",
+"We can increase speed with due care",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 290,
+"q": "Mobile phones shall not be used",
+"options": [
+"While driving a vehicle",
+"In government office",
+"In police station",
+"All answers are correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 291,
+"q": "Before overtaking a vehicle, it should be ensured that:",
+"options": [
+"No vehicle is approaching from behind",
+"The road ahead is clearly visible and it is safe to overtake",
+"The vehicle in front is turning left",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 292,
+"q": "You are driving. A vehicle comes up quickly behind, flashing head lamps. You should",
+"options": [
+"Accelerate to maintain gap behind you",
+"Touch the brakes to show your brake light",
+"Allow the vehicle to overtake, if safe",
+"None of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 293,
+"q": "When a blind person crosses the road holding white cane",
+"options": [
+"The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
+"Blow the horn and proceed",
+"Slow down and proceed with caution",
+"All answers are correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 294,
+"q": "A high beam in foggy conditions",
+"options": [
+"Is good because you can see more",
+"Is bad because it reflects back and can dazzle",
+"Make sure others can see you",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 295,
+"q": "Zig-zag driving is",
+"options": [
+"Dangerous to two wheelers only",
+"Dangerous to all times",
+"Dangerous to four-wheelers vehicle",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 296,
+"q": "Mobile phones shall not be used",
+"options": [
+"At red light",
+"When driving at speed of 20km/h",
+"A and B are correct",
+"None of these"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 297,
+"q": "Overtaking is prohibited when",
+"options": [
+"The road is marked with broken center line in white color",
+"The road is marked with continuous center line in white color",
+"Vehicle is driven on a steep hill",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 298,
+"q": "While you are driving with the head light in high beam during night, a vehicle approaches from opposite direction, you will",
+"options": [
+"Dim the head light till the vehicle passes",
+"Proceed keeping to the left",
+"Put the head light in dim and bright alternatively several time",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 299,
+"q": "If a person in charge of an animal apprehending that the animal may become unmanageable, request to stop a vehicle",
+"options": [
+"the driver shall stop the vehicle",
+"the driver shall proceed blowing the horns",
+"the driver shall reduce the speed",
+"all answers are correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 300,
+"q": "If the road is marked with broken white lines. You",
+"options": [
+"Shall not change track",
+"Can change track if required",
+"Shall stop the vehicle",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 301,
+"q": "Use of horn prohibited",
+"options": [
+"Near hospital",
+"Mosque, church and temple",
+"Near police station",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 302,
+"q": "How long is motor vehicles inspection certificate usually valid for?",
+"options": [
+"6 months for vehicles for an exclusively commercial use",
+"12 months for vehicles non-commercial use",
+"2 years",
+"A and B are correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 303,
+"q": "What is the correct action to take in this situation?",
+"options": [
+"Keep a close eye on the children, if necessary give a warning signal and be prepared to brake in good time.",
+"Speed up to pass the children quickly",
+"Continue to drive at a fast speed.",
+"Drive closer to the right-hand kerb."
+],
+"answer": 0,
+"image": "303.png",
+"imageEssential": true
+},
+{
+"id": 304,
+"q": "An approaching driver notices that the boy on the children's bicycle has said goodbye to his friend. What is the correct action for the driver to take?",
+"options": [
+"Proceed as the boy is on the footpath.",
+"Be prepared for the boy setting off at any moment without paying attention to your vehicle.",
+"Slow down and beckon the boy to cross the road.",
+"Proceed as the boy is on the footpath."
+],
+"answer": 1,
+"image": "304.png",
+"imageEssential": true
+},
+{
+"id": 305,
+"q": "As the driver of the car, which conduct is correct?",
+"options": [
+"A driver may proceed",
+"A driver must drive on the right-hand side to allow clearance to the motorcyclist",
+"A driver must wait",
+"A driver must give right of way to the motorcyclist"
+],
+"answer": 0,
+"image": "305.png",
+"imageEssential": true
+},
+{
+"id": 306,
+"q": "When approaching the pedestrian crossing, what should the driver do in this situation?",
+"options": [
+"Slowdown in good time and be prepared to stop",
+"Continue to drive on fast because the pedestrians have to wait",
+"Maintain your speed because the pedestrians have not stepped on to the crossing",
+"Sound the horn to draw attention to your vehicle and continue to drive at the same speed"
+],
+"answer": 0,
+"image": "306.png",
+"imageEssential": true
+},
+{
+"id": 307,
+"q": "The driver is following these two vehicles and wishes to overtake. What must the driver consider before overtaking here?",
+"options": [
+"You should overtake both vehicles together",
+"The driver field of view is not good enough to allow safe overtaking",
+"The roadway marking forbids overtaking here",
+"Pedestrian crossing ahead"
+],
+"answer": 1,
+"image": "307.png",
+"imageEssential": true
+},
+{
+"id": 308,
+"q": "What should the driver of the silver car do before turning right?",
+"options": [
+"Sound your horn to the cyclist that you intend to turn right",
+"Turn the corner before the cyclist",
+"Allow the cyclist heading straight on to pass",
+"Increase speed to be able to turn the corner before the cyclist"
+],
+"answer": 2,
+"image": "308.png",
+"imageEssential": true
+},
+{
+"id": 309,
+"q": "What lights should a driver use in a fog?",
+"options": [
+"Front and rear fog lights along with dipped headlights",
+"Front and rear fog lights",
+"Dipped Head lights",
+"Just normal lights"
+],
+"answer": 0,
+"image": "309.png",
+"imageEssential": false
+},
+{
+"id": 310,
+"q": "Which car, if any, is parked incorrectly?",
+"options": [
+"Both cars",
+"The green car",
+"The red car",
+"Neither car"
+],
+"answer": 0,
+"image": "310.png",
+"imageEssential": true
+},
+{
+"id": 311,
+"q": "How should a driver overtake the cyclist in this situation?",
+"options": [
+"The driver should not overtake here",
+"By not crossing the broken white line",
+"By crossing the broken white line",
+"By not crossing any of the lines"
+],
+"answer": 2,
+"image": "311.png",
+"imageEssential": true
+},
+{
+"id": 312,
+"q": "What should a driver do if dazzled by the lights of an oncoming vehicle?",
+"options": [
+"Dazzle the oncoming vehicle with their own full beam.",
+"Look to the right-hand edge of the roadway and if necessary, reduce speed.",
+"Flash the oncoming vehicle.",
+"Accelerate to get out of the range of the dazzle as quickly as possible."
+],
+"answer": 1,
+"image": "312.png",
+"imageEssential": false
+},
+{
+"id": 313,
+"q": "What should you do when approaching traffic lights that change from green to amber?",
+"options": [
+"Stop, unless it is not safe",
+"Accelerate and complete the turn",
+"Proceed, as the green light is about to come on",
+"Continue with care being ready to stop if the light turns to red"
+],
+"answer": 0,
+"image": "313.png",
+"imageEssential": false
+},
+{
+"id": 314,
+"q": "What should a driver be aware of when following the motorcyclist, and the white car is reversing onto the road?",
+"options": [
+"The reversing driver will stop when he sees the motorcyclist.",
+"The motorcyclist may beckon the reversing driver to stop.",
+"The brake-lights may go off and the car continue reversing.",
+"The motorcyclist may suddenly brake."
+],
+"answer": 3,
+"image": "314.png",
+"imageEssential": true
+},
+{
+"id": 315,
+"q": "What should a driver do in this situation when intending to turn right?",
+"options": [
+"Proceed between both pedestrians.",
+"Sound the horn, and accelerate to proceed promptly.",
+"Wait and allow both pedestrians to cross.",
+"Allow one pedestrian to cross, and then proceed as there should be room to clear the junction."
+],
+"answer": 3,
+"image": "315.png",
+"imageEssential": true
+},
+{
+"id": 316,
+"q": "In this situation, should you overtake the cyclists?",
+"options": [
+"No, the driver cannot see clearly ahead.",
+"Yes, provided the broken line does not become continuous.",
+"Yes, the cyclists will hear your vehicle and thus will get out of the way.",
+"Yes, any oncoming traffic can observe the situation and will get out of the way."
+],
+"answer": 0,
+"image": "316.png",
+"imageEssential": true
+},
+{
+"id": 317,
+"q": "What should a driver do in this situation?",
+"options": [
+"Allow the pedestrian to cross the road.",
+"Sound your horn and drive on.",
+"Wait at the zebra crossing until the van has turned off.",
+"Accelerate quickly before pedestrian cross the road."
+],
+"answer": 2,
+"image": "317.png",
+"imageEssential": true
+},
+{
+"id": 318,
+"q": "Which vehicle is in the correct position to make a right turn from the major road into the minor road?",
+"options": [
+"Car 1 is in the correct position to make the right turn.",
+"Car 2 is in the correct position to make the right turn.",
+"Car 3 is in the correct position to make the right turn.",
+"Car 4 is in the correct position to make the right turn."
+],
+"answer": 3,
+"image": "318.png",
+"imageEssential": true
+},
+{
+"id": 319,
+"q": "What should a driver do if they see a red warning triangle on the road?",
+"options": [
+"The driver should slow down and expect a hazard up ahead.",
+"Stop and await instructions.",
+"Avoid it, maintain speed and carry on.",
+"Stop at the triangle before proceeding."
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 320,
+"q": "What should the driver do if there are cattle on the road ahead?",
+"options": [
+"Sound the horn to try get the cattle to move aside.",
+"The driver should reduce speed and overtake with care.",
+"Switch on your headlights and try to pass as quickly as possible.",
+"Sound the horn and overtake with care."
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 321,
+"q": "The bus ahead is moving away from a bus stop. What should a driver do?",
+"options": [
+"Drive alongside it because you have right-of-way.",
+"Slow down and allow it to move out.",
+"Try to get past it to avoid being delayed.",
+"Signal to the bus driver to let you pass."
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 322,
+"q": "What should a driver do if they meet a vehicle with flashing amber beacons?",
+"options": [
+"That the oncoming vehicle is broken down.",
+"That the oncoming vehicle is an emergency vehicle.",
+"The oncoming vehicle is fast moving.",
+"Slow down and be prepared to stop."
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 323,
+"q": "What should a driver do when being overtaken by another vehicle?",
+"options": [
+"Continue at the same pace.",
+"Move to the right.",
+"Move to the left.",
+"Increase your speed."
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 324,
+"q": "What does a continuous white line along the center of the road mean?",
+"options": [
+"It is prohibited to every driver to cross it.",
+"Motorcyclists can overtake.",
+"Parking allowed.",
+"U-turn allowed during daylight hours."
+],
+"answer": 0,
+"image": "324.png",
+"imageEssential": false
+},
+{
+"id": 325,
+"q": "What should a driver do when approaching a junction normally controlled by traffic lights and the traffic lights are not lighting?",
+"options": [
+"Treat the junction as an unmarked junction and proceed cautiously while watching out for other traffic.",
+"Drive smartly through the junction to avoid delay.",
+"Stop at the junction and give way to traffic on your right.",
+"Switch on the hazard warning lights and drive on."
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 326,
+"q": "What should the driver do if there are cattle on the road ahead?",
+"options": [
+"Sound the horn to try get the cattle to move aside.",
+"The driver should reduce speed and overtake with care.",
+"Switch on your headlights and try to pass as quickly as possible.",
+"Sound the horn and overtake with care."
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 327,
+"q": "What should the driver do when approaching a humpbacked hill?",
+"options": [
+"The driver should reduce speed, keep to the right and be alert for hazards ahead.",
+"Press the clutch pedal and sound the horn as a warning.",
+"Maintain normal speed and road position.",
+"Stop at the crest of the hill."
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 328,
+"q": "What do flash amber beacons on an oncoming vehicle alert a driver to?",
+"options": [
+"That the oncoming traffic maybe slow moving or extra wide",
+"Is an emergency vehicle",
+"Is broken down",
+"Is fast moving"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 329,
+"q": "What should a driver do on a narrow road when another vehicle is coming in the opposite direction?",
+"options": [
+"Maintain its position and expect the other vehicle to move over if necessary",
+"Reduce speed and allow reasonable clearance between their vehicle and the oncoming one before proceeding",
+"Expect the other driver to pull off the road",
+"Drive along the middle of the road to encourage other drives to pull in"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 330,
+"q": "When a driver is driving behind another vehicle that they do not intend to overtake, what should the driver do?",
+"options": [
+"Keep well back and to the center of the road",
+"Keep well back to allow following traffic to overtake them",
+"Drive close behind it in order to let following traffic overtake both vehicles",
+"Signal to following traffic to overtake both vehicles"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 331,
+"q": "When should signals (for example, with indicators) be given to other road users?",
+"options": [
+"Only when it is necessary to warn following traffic",
+"Only when it is necessary to warn oncoming traffic",
+"Clearly and in good time to let other road users know your intentions",
+"Except where road markings indicate your direction"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 332,
+"q": "How does giving a late signal affect other road users?",
+"options": [
+"Only oncoming traffic are affected",
+"They may not have sufficient time to react",
+"They always have sufficient time in which to react",
+"They are not affected"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 333,
+"q": "What is the correct procedure where somebody has been injured in a collision?",
+"options": [
+"Carry the person to the side of the road",
+"Do not move the person unless there is a danger of fire or of being hit by passing vehicles and call the emergency services",
+"Have the person move various limbs to determine the extent of the injuries",
+"Keep the injured person calm and give them a cold drink"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 334,
+"q": "What should a driver do when involved in an incident where nobody is injured but the vehicles are causing a danger or obstruction on the road?",
+"options": [
+"Mark the position of the vehicles and move them off the road",
+"Move any passengers and display a red warning triangle on the vehicle",
+"Wait for Police to arrive before moving the vehicles off the road",
+"Halt all other traffic until blame has been established and then move the vehicles"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 335,
+"q": "When driving on a one-way street and wishing to turn left, what should a driver do?",
+"options": [
+"Drive close to the center line of the road while indicating left",
+"Drive close to the right-hand-side of the road",
+"Drive close to the left-hand side of the road",
+"Drive close to the center line of the road"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 336,
+"q": "When driving along a dual carriageway, what lane position should a driver be in?",
+"options": [
+"On the left-hand lane, except when driving a tractor or works vehicle",
+"On either lane of their choice",
+"In the right-hand lane unless the driver wishes to overtake or turn left",
+"On the left-hand lane"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 337,
+"q": "When driving on a motorway, which lane should a driver take?",
+"options": [
+"Drive on whichever lane has the least volume of traffic",
+"Drive in the left-hand lane unless you intend to take a right exit",
+"Drive in the right-hand lane unless intending to overtake",
+"Not drive on the right-hand lane as it is reserved for heavy goods vehicles and coaches"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 338,
+"q": "What should a driver do when approaching a roundabout?",
+"options": [
+"Drive onto it as the traffic on it must give way to you",
+"Give way only to heavy goods vehicles on the roundabout",
+"Give way only if taking the second or third exit",
+"Give way to traffic already on the roundabout"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 339,
+"q": "In what direction should a driver turn when entering a roundabout?",
+"options": [
+"To the Left",
+"To the Left, only when controlled by a traffic light",
+"To the right or left",
+"To the right"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 340,
+"q": "Where a vehicle should be positioned before turning left?",
+"options": [
+"The right-hand side of the road",
+"Just right of the center of the road",
+"Either side of the center of the road",
+"The left-hand side of the road"
+],
+"answer": 1,
+"image": "340.png",
+"imageEssential": false
+},
+{
+"id": 341,
+"q": "What must a driver be aware of before entering a roundabout?",
+"options": [
+"Traffic coming from behind - how fast it's travelling and how close it is",
+"The traffic to the left - how fast it's travelling and how close it is",
+"The traffic coming from the right - how fast it's travelling and how close it is",
+"The traffic ahead - how fast it's travelling and how close it is"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 342,
+"q": "You are behind a bus that has stopped to pick up or drop off passengers, you should:",
+"options": [
+"Overtake from the left",
+"Wait behind patiently",
+"A and B are correct",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 343,
+"q": "When you see the traffic sign of school you should:",
+"options": [
+"Slow down and proceed with caution",
+"Continue to drive on fast because the student have to wait",
+"Sound your horn",
+"All answers are correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 344,
+"q": "The number of passengers permitted to be taken in private vehicle is recorded in the:",
+"options": [
+"Registration certificate",
+"Tax receipt",
+"Proper insurance",
+"All answers are correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 345,
+"q": "Drunken driving is:",
+"options": [
+"Allowed in private motor vehicles",
+"Allowed during night time",
+"Prohibited in all motor vehicles",
+"All answers are correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 346,
+"q": "A driver of a vehicle may Overtake:",
+"options": [
+"While driving downhill",
+"If the road is sufficiently wide",
+"When the driver of the vehicle in front shows the signal to overtake",
+"None of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 347,
+"q": "You stop for pedestrians waiting to cross at zebra crossing. They do not start to cross. What should you do?",
+"options": [
+"Sound your horn",
+"Be patient and wait",
+"Drive on",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 348,
+"q": "When someone in your car forgets to wear their seat belt, you should",
+"options": [
+"Take yours off so you can share.",
+"Close your eyes and hope that you don't crash.",
+"Tighten your own seat belt.",
+"Remind them to put it on."
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 349,
+"q": "When school buses are stopped for picking up or setting down students, you should:",
+"options": [
+"Blow a horn and proceed",
+"Proceed slowly and cautiously since there is chance of students suddenly crossing the road",
+"No special care is required",
+"All answers are correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 350,
+"q": "When a vehicle is parked on the road side during night",
+"options": [
+"The vehicle should be locked",
+"The person having license to drive such a vehicle should be in the driver's seat",
+"The park light shall remain lit",
+"All answers are correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 351,
+"q": "When the vehicle behind has begun to overtake our vehicle:",
+"options": [
+"We shall not overtake another vehicle",
+"We can overtake another vehicle",
+"We can overtake another vehicle blowing horn",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 352,
+"q": "You are driving on a two lane street. A vehicle in front of you is moving very slowly and the road ahead is clear for overtaking, you should:",
+"options": [
+"Pass the vehicle from the left hand side",
+"Pass the vehicle from the right hand side",
+"Pass the vehicle from any convenient side",
+"All answers are correct"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 353,
+"q": "Large white strips which are parallel to the axis of the road are meant:",
+"options": [
+"Stopping vehicle",
+"Pedestrians crossing",
+"For giving preference to vehicle",
+"All answers are correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 354,
+"q": "The mirror is used:",
+"options": [
+"For seeing face",
+"For watching the traffic approaching from behind",
+"For seeing the back seat passenger",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 355,
+"q": "The pedestrians shall not cross the road at sharp bends or very near to a stopped vehicle, why?",
+"options": [
+"Inconvenience to other vehicles",
+"Inconvenience to other road users",
+"Drivers of other vehicles coming at a distance may not see persons crossing the road",
+"All answers are correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 356,
+"q": "Overtaking when approaching a bend is",
+"options": [
+"Permissible",
+"Not permissible",
+"Permissible with care",
+"All answers are correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 357,
+"q": "What should drivers do if they become drowsy while driving?",
+"options": [
+"Open window or turn on the air conditioning to let cool air into the vehicle.",
+"Stop, take a break including a short walk if possible.",
+"Stretch your arms and close your eyes for short periods.",
+"Turn up the heating."
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 358,
+"q": "What should a driver do when driving in a fog, heavy rain, hail, or dust clouds?",
+"options": [
+"Drive along the shoulder and watch for reflective marks.",
+"Reduce the speed and use dipped headlights.",
+"Switch on your full headlights and drive slowly.",
+"Drive along the central driving line and watch the reflective marks."
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 359,
+"q": "How can you identify traffic signs that give orders?",
+"options": [
+"They're rectangular with a yellow border",
+"They're triangular with a blue border",
+"They're square with a black border",
+"They're circular with a red border"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 360,
+"q": "You're approaching a junction where the traffic lights aren't working. What should you do when a police officer gives this signal?",
+"options": [
+"Turn left only",
+"Turn right only continue ahead only",
+"Stop at the stop line",
+"Continue ahead only"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 361,
+"q": "The direction indicating lights must be visible at a minimum distance of:",
+"options": [
+"100 m at night by fine weather",
+"200 m at night by fine weather",
+"150 m at night by fine weather",
+"250 m at night by fine weather"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 362,
+"q": "A broken white line means that it is prohibited to every driver to cross it except:",
+"options": [
+"in case of overtaking",
+"for turning left",
+"for effecting a U-turn or shifting lines of circulation",
+"All answers are correct."
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 363,
+"q": "The section of the public highway delimited by two broken and parallel white lines and not wide enough for automobile vehicles traffic constitutes:",
+"options": [
+"passage for pedestrians",
+"a cycle lane",
+"a and b are all correct",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 364,
+"q": "The sign A19 for two ways traffic authorized in both directions has the following characteristics:",
+"options": [
+"a red cycle with white surface and a black symbol",
+"a red triangle with white surface and a black symbol",
+"a red triangle with blue surface and black symbol",
+"a red cycle with blue surface and black symbol"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 366,
+"q": "This signal means:",
+"options": [
+"Intersection of road",
+"junction with a road coming from the right",
+"a and b are both correct answers",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": "366.png",
+"imageEssential": true
+},
+{
+"id": 367,
+"q": "This signal explains the following:",
+"options": [
+"it is forbidden to overtake other vehicles",
+"right of way for vehicles moving in the opposite direction",
+"a and b are correct",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": "367.png",
+"imageEssential": true
+},
+{
+"id": 368,
+"q": "The reflector placed on the front side of vehicle must be of:",
+"options": [
+"Yellow color",
+"red color",
+"white color",
+"none of the answer is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 369,
+"q": "This signal means:",
+"options": [
+"The end of priority",
+"right of way for vehicles moving in the opposite direction",
+"right of way before vehicles coming in opposite direction",
+"none of the answer is correct"
+],
+"answer": 2,
+"image": "369.png",
+"imageEssential": true
+},
+{
+"id": 370,
+"q": "This signal constitutes by:",
+"options": [
+"form of triangle, blue surface",
+"triangle form, black surface",
+"triangle form, white surface",
+"none of the answer is correct"
+],
+"answer": 2,
+"image": "370.png",
+"imageEssential": false
+},
+{
+"id": 371,
+"q": "This signal means:",
+"options": [
+"narrowing road on the right side",
+"narrowing road as result of an encroachment upon the left verge of the road",
+"a small footpath",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": "371.png",
+"imageEssential": true
+},
+{
+"id": 372,
+"q": "Every driver who realizes that a driver following him wishes to overtake him must:",
+"options": [
+"come close to right border of the road way",
+"to accelerate the vehicle",
+"to stop",
+"a and c are corrects answers"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 373,
+"q": "This signal indicates",
+"options": [
+"Narrowing road",
+"Narrowing road (as a result of an encroachment upon the left verge of the road)",
+"Irregular surface",
+"None of the answers is correct"
+],
+"answer": 3,
+"image": "373.png",
+"imageEssential": true
+},
+{
+"id": 374,
+"q": "This signal designates:",
+"options": [
+"No vehicular traffic in both direction",
+"Only people who reside in that place are supposed to pass",
+"Its only one direction",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": "374.png",
+"imageEssential": true
+},
+{
+"id": 375,
+"q": "This sign indicates:",
+"options": [
+"Narrowing road",
+"Slippery Road",
+"Irregular surface",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": "375.png",
+"imageEssential": true
+},
+{
+"id": 376,
+"q": "This sign showing the following:",
+"options": [
+"Corner to the right (approaching a dangerous corner to the right)",
+"Steep climb",
+"Dangerous slope",
+"b and c are correct"
+],
+"answer": 0,
+"image": "376.png",
+"imageEssential": true
+},
+{
+"id": 377,
+"q": "When the road has two traffic bands and the traffic moves in two directions, its forbidden to:",
+"options": [
+"To use the right hand band",
+"Overtake",
+"To use the left hand band",
+"All answers are correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 378,
+"q": "The two-way traffic sign is characterized by:",
+"options": [
+"circular shape in red, white background and black symbol",
+"Red triangular shape, white background and black symbol",
+"triangular shape in red, blue background and a black symbol",
+"circular shape in red, blue background and black symbol"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 379,
+"q": "The signal (path for cattle required) has the following characteristics:",
+"options": [
+"a circular shape with a surface in blue color with the image of a cow in black color",
+"a circular shape of the surface is of a white color and the image of a cow in blue color",
+"a circle with a surface in blue color, the image of a cow in white color and a symbol in black color",
+"a triangular shape whose surface is of a white color with the image of a cow in black color"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 380,
+"q": "The signal C15 means forbidden of hoofing and warning sound has the following characteristics:",
+"options": [
+"Its form of circle, blue surface and black symbol",
+"form of circle, blue surface and white symbol",
+"form of circle, white surface and black symbol",
+"none of the answers is correct"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 381,
+"q": "Danger and priority signals are constituted by:",
+"options": [
+"form of triangle in red color, white surface and black symbol",
+"form of triangle in red color, blue surface and black symbol",
+"form of circle in red color, blue surface and black symbol",
+"form of circle in red color, white surface and black symbol"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 382,
+"q": "Prohibition and obligation signs only have effect:",
+"options": [
+"at the crossroads",
+"the light signals",
+"a and b are just",
+"none of the answers is correct"
+],
+"answer": 3,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 383,
+"q": "Danger road signs serve the purpose of warning the user:",
+"options": [
+"on existence of danger",
+"undefined danger",
+"characters of surprise danger.",
+"there is no correct answer"
+],
+"answer": 0,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 384,
+"q": "Additional signals may notify:",
+"options": [
+"particular prohibitions only",
+"general restrictions or exceptions or particular prohibitions or obligations",
+"a and b are both correct answers",
+"none of the answer is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 385,
+"q": "The form of a signal which means compulsory by pass is:",
+"options": [
+"triangle",
+"circle",
+"rectangle",
+"none of the answers is correct"
+],
+"answer": 1,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 386,
+"q": "A signal indicating the mandatory direction of a color symbol:",
+"options": [
+"Blanche",
+"Rouge",
+"Blue and white",
+"Black"
+],
+"answer": 2,
+"image": null,
+"imageEssential": false
+},
+{
+"id": 387,
+"q": "This order of the qualified agent implies the obligation to stop:",
+"options": [
+"For all users arriving in front of the agent",
+"For all users, wherever they come from.",
+"For all users appearing behind the agent.",
+"none of the answer is correct"
+],
+"answer": 1,
+"image": "387.png",
+"imageEssential": true
+},
+{
+"id": 388,
+"q": "These road signs forbid me to overtake on the left?",
+"options": [
+"yes",
+"yes, if my speed is above 90 km/h",
+"No",
+"none of the answers is correct"
+],
+"answer": 0,
+"image": "388.png",
+"imageEssential": true
+},
+{
+"id": 390,
+"q": "Highway. I want to overtake these two trucks in a single maneuver, by the left and at the same time. It's authorized?",
+"options": [
+"Yes",
+"No",
+"Yes, but to the left",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": "390.png",
+"imageEssential": false
+},
+{
+"id": 391,
+"q": "The driver of a car. This road sign means:",
+"options": [
+"Prohibits me from driving at a speed exceeding 5 km / h.",
+"Deny me access, because it applies to the vehicle of more than 5 tons.",
+"Does not concern me, as it only applies to vehicles of 5 tons and over.",
+"None of the answers is correct"
+],
+"answer": 2,
+"image": "391.png",
+"imageEssential": true
+},
+{
+"id": 392,
+"q": "I want to turn right. It's allowed.",
+"options": [
+"Yes.",
+"Yes, but after stopping.",
+"No",
+"None of the answers is correct"
+],
+"answer": 2,
+"image": "392.png",
+"imageEssential": true
+},
+{
+"id": 393,
+"q": "Railroad Crossing.",
+"options": [
+"I can still cross this level crossing, because the barriers are not completely lowered.",
+"I must stop below the flashing red lights.",
+"I cannot continue my journey. I have to stop now.",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": "393.png",
+"imageEssential": true
+},
+{
+"id": 394,
+"q": "Beyond the first road sign:",
+"options": [
+"Advised to travel at more than 30 km / h.",
+"Advised not to exceed 30 km / h.",
+"Forbidden to drive more than 30 km / h.",
+"None of the answers is correct"
+],
+"answer": 2,
+"image": "394.png",
+"imageEssential": true
+},
+{
+"id": 395,
+"q": "I stop at the stop line.",
+"options": [
+"Then I can turn right.",
+"Then, I can turn left.",
+"Then, I can turn left or right.",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": "395.png",
+"imageEssential": true
+},
+{
+"id": 396,
+"q": "I must:",
+"options": [
+"Mark a timeout at this road sign.",
+"Stop and give way to 100 meters beyond this road sign.",
+"Give way and stop, if necessary, 100 meters beyond this road sign.",
+"None of the answer is correct"
+],
+"answer": 1,
+"image": "396.png",
+"imageEssential": true
+},
+{
+"id": 397,
+"q": "I want to turn left. The green car came to a stop. Who has priority?",
+"options": [
+"I have priority.",
+"The green car has priority.",
+"Neither: we must exercise caution.",
+"None of the answer is correct"
+],
+"answer": 1,
+"image": "397.png",
+"imageEssential": true
+},
+{
+"id": 398,
+"q": "I have priority at this crossroads?",
+"options": [
+"Yes, if you turn right.",
+"No, the other car traveling straight ahead has priority.",
+"Yes, regardless of my direction.",
+"None of the answer is correct"
+],
+"answer": 2,
+"image": "398.png",
+"imageEssential": true
+},
+{
+"id": 399,
+"q": "I drive at 20 km/h. I can still get involved in the crossroads?",
+"options": [
+"No.",
+"Yes, and I can turn right.",
+"Yes, and I can turn left as well as right.",
+"Yes, and I can turn left only"
+],
+"answer": 0,
+"image": "399.png",
+"imageEssential": true
+},
+{
+"id": 400,
+"q": "The driver in front of me overtook me on the left.",
+"options": [
+"I can, in turn, go past it on the right.",
+"I cannot go beyond it.",
+"I can, in turn, overtake it on the left, as soon as I have enough space.",
+"None of the answers are correct"
+],
+"answer": 2,
+"image": "400.png",
+"imageEssential": true
+},
+{
+"id": 401,
+"q": "From these road signs, it is forbidden:",
+"options": [
+"To overtake harnessed vehicles and vehicles with more than two wheels on the left and drive at more than 70 km/h.",
+"To overtake a coupled vehicle or a vehicle with more than two wheels to the left.",
+"To travel more than 70 km/h.",
+"None of the answer is correct"
+],
+"answer": 0,
+"image": "401.png",
+"imageEssential": true
+},
+{
+"id": 402,
+"q": "I want to store my parked car on the right, on this sidewalk.",
+"options": [
+"It is allowed, below the signal.",
+"It is allowed in part, beyond the signal.",
+"It is forbidden, both below and beyond the signal.",
+"None of the answer is correct"
+],
+"answer": 0,
+"image": "402.png",
+"imageEssential": true
+},
+{
+"id": 403,
+"q": "What does this sign mean?",
+"options": [
+"Stop, for school crossing ahead.",
+"Stop your vehicle.",
+"Other traffic must give way to you.",
+"Give way to traffic coming from your right."
+],
+"answer": 1,
+"image": "403.png",
+"imageEssential": true
+},
+{
+"id": 404,
+"q": "What does this sign mean at a junction?",
+"options": [
+"Yield to all heavy goods vehicles.",
+"Slow down and stop for pedestrians.",
+"Yield to traffic on the major road.",
+"Yield to traffic coming from your right."
+],
+"answer": 2,
+"image": "404.png",
+"imageEssential": true
+},
+{
+"id": 405,
+"q": "What does this sign mean at a roundabout?",
+"options": [
+"Yield to traffic on the major road.",
+"Yield to traffic coming from the right.",
+"Yield to trucks and buses only.",
+"All vehicles, except motorcycles, must yield."
+],
+"answer": 1,
+"image": "405.png",
+"imageEssential": true
+},
+{
+"id": 406,
+"q": "What does this sign mean?",
+"options": [
+"Straight ahead only.",
+"Overtaking lane ahead.",
+"Parking permitted from this point on.",
+"One way street ahead."
+],
+"answer": 0,
+"image": "406.png",
+"imageEssential": true
+},
+{
+"id": 407,
+"q": "What does this sign mean?",
+"options": [
+"Motorway to the left.",
+"Diversion ahead to the left.",
+"Traffic from the right has priority.",
+"Turn Left Only."
+],
+"answer": 3,
+"image": "407.png",
+"imageEssential": true
+},
+{
+"id": 408,
+"q": "What does this sign mean?",
+"options": [
+"Overtake only on the right",
+"Diversion ahead to the right.",
+"Turn right only.",
+"Major road joining from the left."
+],
+"answer": 2,
+"image": "408.png",
+"imageEssential": true
+},
+{
+"id": 409,
+"q": "What does this sign mean?",
+"options": [
+"No right turn.",
+"Yield to other traffic when turning right.",
+"Turn right if there is no oncoming traffic.",
+"No hard shoulder to the right."
+],
+"answer": 0,
+"image": "409.png",
+"imageEssential": true
+},
+{
+"id": 410,
+"q": "What does this sign mean?",
+"options": [
+"U-turn not permitted.",
+"Reversing not permitted.",
+"Slippery road ahead.",
+"Two-way traffic prohibited."
+],
+"answer": 0,
+"image": "410.png",
+"imageEssential": true
+},
+{
+"id": 411,
+"q": "What does this sign mean?",
+"options": [
+"Motorway continues for 50 kilometers.",
+"Minimum distance between vehicles is 50 meters.",
+"Minimum speed is 50 km/h.",
+"Maximum speed is 50 km/h."
+],
+"answer": 3,
+"image": "411.png",
+"imageEssential": true
+},
+{
+"id": 412,
+"q": "What does this sign mean?",
+"options": [
+"Public service vehicles prohibited.",
+"Parking prohibited.",
+"Private vehicles prohibited.",
+"Parking permitted."
+],
+"answer": 1,
+"image": "412.png",
+"imageEssential": true
+},
+{
+"id": 413,
+"q": "What does this sign mean?",
+"options": [
+"Parking area for cyclists ahead.",
+"Area reserved for children learning to ride bicycles.",
+"Shared cycle/pedestrian track.",
+"Cyclists must dismount and walk."
+],
+"answer": 2,
+"image": "413.png",
+"imageEssential": true
+},
+{
+"id": 414,
+"q": "What does this sign mean?",
+"options": [
+"Maximum permitted weight is 3 tonnes.",
+"No entry for vehicles carrying goods.",
+"3 axled vehicles not permitted.",
+"Only 3 axled vehicles are permitted."
+],
+"answer": 1,
+"image": "414.png",
+"imageEssential": true
+},
+{
+"id": 415,
+"q": "What does this sign mean?",
+"options": [
+"Junction with compulsory roundabout",
+"'U'-turn permitted ahead.",
+"One-way street ahead.",
+"'U'-turn prohibited ahead."
+],
+"answer": 0,
+"image": "415.png",
+"imageEssential": true
+},
+{
+"id": 416,
+"q": "What does this sign mean?",
+"options": [
+"The roadway has two bands",
+"The roadway has four bands",
+"One-way street.",
+"Two-way traffic ahead."
+],
+"answer": 3,
+"image": "416.png",
+"imageEssential": true
+},
+{
+"id": 417,
+"q": "What does this sign mean?",
+"options": [
+"Uneven road surface to the right.",
+"Dangerous slope.",
+"lane on a bad section of the road",
+"River or unprotected quay ahead."
+],
+"answer": 1,
+"image": "417.png",
+"imageEssential": true
+},
+{
+"id": 418,
+"q": "What does this sign mean?",
+"options": [
+"Steep climb",
+"Uneven road surface to the left.",
+"lane on a bad section of the road",
+"Approaching a hump back"
+],
+"answer": 0,
+"image": "418.png",
+"imageEssential": true
+},
+{
+"id": 419,
+"q": "What does this sign mean?",
+"options": [
+"Steep climb",
+"Crosswinds ahead.",
+"Series of bends ahead.",
+"Slippery road"
+],
+"answer": 3,
+"image": "419.png",
+"imageEssential": true
+},
+{
+"id": 420,
+"q": "What does this sign mean?",
+"options": [
+"Children.",
+"Pedestrian crossing ahead - prepare to stop.",
+"Children's play area ahead.",
+"Recreation area ahead."
+],
+"answer": 0,
+"image": "420.png",
+"imageEssential": true
+},
+{
+"id": 421,
+"q": "What does this sign mean?",
+"options": [
+"Livestock mart ahead.",
+"Veterinary station ahead.",
+"Cattle grid ahead.",
+"Cattle crossing"
+],
+"answer": 3,
+"image": "421.png",
+"imageEssential": true
+},
+{
+"id": 422,
+"q": "Which sign shows no through road:",
+"options": [
+"The Signal C1",
+"The Signal E14",
+"The Signal C2a",
+"The Signal B2a"
+],
+"answer": 1,
+"image": "422.png",
+"imageEssential": true
+},
+{
+"id": 423,
+"q": "What does this sign mean?",
+"options": [
+"Yield",
+"Danger",
+"One-way",
+"No entry"
+],
+"answer": 0,
+"image": "423.png",
+"imageEssential": true
+},
+{
+"id": 424,
+"q": "Which sign shows the driver who is about to enter a narrow road that he has the right of way before vehicles moving in the opposite direction:",
+"options": [
+"The Signal B6",
+"The Signal A19",
+"The Signal B3",
+"The signal A22a"
+],
+"answer": 0,
+"image": "424.png",
+"imageEssential": true
+},
+{
+"id": 425,
+"q": "What does this sign mean?",
+"options": [
+"Roundabout",
+"The roadway has three bands",
+"Approaching a junction",
+"None of the answers is correct"
+],
+"answer": 0,
+"image": "425.png",
+"imageEssential": true
+},
+{
+"id": 426,
+"q": "What does this sign mean?",
+"options": [
+"One-way traffic",
+"No entry",
+"No through road",
+"None of the answers is correct"
+],
+"answer": 1,
+"image": "426.png",
+"imageEssential": true
+},
+{
+"id": 427,
+"q": "Which sign means a one-way road?",
+"options": [
+"The signal D1a",
+"The signal E13a",
+"The signal C19",
+"The signal C1"
+],
+"answer": 1,
+"image": "427.png",
+"imageEssential": true
+},
+{
+"id": 428,
+"q": "What does this sign mean?",
+"options": [
+"Any crossing at the same level",
+"Junction with a road coming practically from the right",
+"No through road",
+"None of the answers is correct"
+],
+"answer": 3,
+"image": "428.png",
+"imageEssential": true
+},
+{
+"id": 429,
+"q": "What does this sign mean?",
+"options": [
+"End of a highway",
+"Crossing onto the opposite carriageway is not allowed.",
+"No overtaking.",
+"Stopping under bridge is not allowed."
+],
+"answer": 0,
+"image": "429.png",
+"imageEssential": true
+},
+{
+"id": 430,
+"q": "What does this road marking mean?",
+"options": [
+"You may overtake.",
+"A driver must not cross the line.",
+"You are approaching a stop sign.",
+"Road narrows ahead."
+],
+"answer": 1,
+"image": "430.png",
+"imageEssential": true
+},
+{
+"id": 431,
+"q": "What does this road marking mean?",
+"options": [
+"A driver must not cross the broken white line unless it is safe to do so.",
+"You may not overtake.",
+"You may overtake provided you do not cross the broken white line.",
+"You may not perform a reverse maneuver."
+],
+"answer": 0,
+"image": "431.png",
+"imageEssential": true
+},
+{
+"id": 432,
+"q": "If driving from A to B, what do these road markings mean?",
+"options": [
+"A driver may cross the continuous white line only when performing a 'U'-turn.",
+"A driver may not overtake, only motorcyclists may cross the continuous white line.",
+"A driver may not overtake by crossing the continuous white line.",
+"A driver may overtake if it is safe to do so."
+],
+"answer": 3,
+"image": "432.png",
+"imageEssential": true
+},
+{
+"id": 433,
+"q": "If driving from A to B, what do these road markings mean?",
+"options": [
+"A driver may overtake by crossing the continuous white line.",
+"A driver may not cross the white lines to overtake.",
+"A driver may overtake.",
+"Only motorcyclists may overtake crossing the continuous white line."
+],
+"answer": 1,
+"image": "433.png",
+"imageEssential": true
+}
+]

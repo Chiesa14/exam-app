@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  @apply text-slate-100 antialiased;
+  background:
+    radial-gradient(1200px 700px at 80% -10%, rgba(31, 176, 255, 0.18), transparent 60%),
+    radial-gradient(900px 600px at 0% 10%, rgba(31, 199, 125, 0.12), transparent 55%),
+    radial-gradient(700px 700px at 50% 120%, rgba(255, 210, 0, 0.08), transparent 60%),
+    #070d1b;
+  background-attachment: fixed;
+  min-height: 100dvh;
+}
+
+/* ---------- reusable layers ---------- */
+@layer components {
+  .glass {
+    @apply rounded-3xl border border-white/10 bg-white/[0.04] backdrop-blur-xl;
+  }
+  .card {
+    @apply glass shadow-card;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-2xl px-5 py-3 font-semibold transition-all duration-200 active:scale-[0.97] disabled:opacity-40 disabled:pointer-events-none select-none;
+  }
+  .btn-primary {
+    @apply btn text-white shadow-glow;
+    background: linear-gradient(135deg, #1eb0ff, #1f7bff);
+  }
+  .btn-ghost {
+    @apply btn border border-white/10 bg-white/5 text-slate-100 hover:bg-white/10;
+  }
+  .btn-success {
+    @apply btn text-white;
+    background: linear-gradient(135deg, #1fc77d, #12a866);
+  }
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs font-medium text-slate-300;
+  }
+  .stat-num {
+    @apply text-3xl font-extrabold tracking-tight tabular-nums;
+  }
+}
+
+/* option button states */
+.opt {
+  @apply relative w-full rounded-2xl border px-4 py-3.5 text-left transition-all duration-150;
+  @apply border-white/10 bg-white/[0.03] hover:border-brand-blue/60 hover:bg-white/[0.06];
+}
+.opt:disabled {
+  cursor: default;
+}
+.opt-letter {
+  @apply flex h-8 w-8 shrink-0 items-center justify-center rounded-xl border border-white/15 bg-white/5 text-sm font-bold text-slate-200;
+}
+.opt-correct {
+  @apply border-brand-green/70 bg-brand-green/15;
+}
+.opt-correct .opt-letter {
+  @apply border-brand-green bg-brand-green text-[#06281a];
+}
+.opt-wrong {
+  @apply border-brand-red/70 bg-brand-red/15;
+}
+.opt-wrong .opt-letter {
+  @apply border-brand-red bg-brand-red text-white;
+}
+.opt-selected {
+  @apply border-brand-blue/80 bg-brand-blue/15;
+}
+.opt-selected .opt-letter {
+  @apply border-brand-blue bg-brand-blue text-white;
+}
+
+/* the rendered sign / diagram image */
+.sign-img {
+  @apply mx-auto rounded-2xl bg-white p-2 shadow-lg;
+  image-rendering: -webkit-optimize-contrast;
+}
+
+/* scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* number ticker */
+.tick {
+  font-variant-numeric: tabular-nums;
+}
