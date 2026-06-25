@@ -2,7 +2,7 @@
 
 A polished, offline-friendly study app for the **Rwandan provisional driving licence** theory exam.
 398 official questions (English) extracted from the source document — including road-sign, road-marking,
-intersection-priority and hazard-photo questions — with two study modes, answer shuffling,
+intersection-priority and hazard-photo questions — with two study modes,
 spaced-repetition that hammers the questions you keep getting wrong, and full progress tracking
 in a real (in-browser) SQLite database.
 
@@ -14,8 +14,8 @@ in a real (in-browser) SQLite database.
   Pass target is **18/20** (the real exam passes at 12/20 — you train harder).
 - **Smart selection** — every question gets fair coverage (nothing is shown many times before the rest
   appear) while *failed and never-seen* questions are weighted up and *mastered* ones fade out.
-- **Shuffled answers** — option positions are randomised on every showing, so you learn the answer,
-  not its letter.
+- **Source answer order** — options are shown in their original order (kept on purpose, since some
+  answers refer to letters like "A and B are correct").
 - **Accurate images** — sign / marking / diagram / photo questions show the exact picture from the source.
 - **Progress dashboard** — coverage, accuracy, mastered count, exam history chart, and a
   "questions to review" list of your weak spots.

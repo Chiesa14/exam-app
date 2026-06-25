@@ -102,7 +102,7 @@ export default function ExamPage() {
           </div>
           <h1 className="text-2xl font-bold">Mock exam</h1>
           <p className="mx-auto mt-2 max-w-md text-sm text-slate-300">
-            {EXAM_COUNT} questions drawn from the full bank, answers shuffled. Beat the clock and hit your target score.
+            {EXAM_COUNT} questions drawn from the full bank. Beat the clock and hit your target score.
           </p>
           <div className="mt-6 grid grid-cols-3 gap-3">
             <Info icon={<Target className="h-4 w-4" />} k="Questions" v={`${EXAM_COUNT}`} />

@@ -67,16 +67,14 @@ export function pickOne(all: Question[], stats: Map<number, QStat>, recent: numb
   return pickQuestions(all, stats, 1, { exposureWindow: 2, failBoost: 4, exclude })[0];
 }
 
-/** Shuffle the answer options so position can't be memorised; track the new correct index. */
+/**
+ * Prepare a question for display. Options are kept in their ORIGINAL order — they are
+ * NOT shuffled, because some options refer to letters ("A and B are correct", "A and C
+ * are both correct"), which only make sense in the source order.
+ */
 export function prepareQuestion(q: Question): PreparedQuestion {
-  const idx = q.options.map((_, i) => i);
-  for (let i = idx.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [idx[i], idx[j]] = [idx[j], idx[i]];
-  }
-  const shuffledOptions = idx.map((originalIndex) => ({ text: q.options[originalIndex], originalIndex }));
-  const correctShuffledIndex = idx.indexOf(q.answer);
-  return { question: q, shuffledOptions, correctShuffledIndex };
+  const shuffledOptions = q.options.map((text, originalIndex) => ({ text, originalIndex }));
+  return { question: q, shuffledOptions, correctShuffledIndex: q.answer };
 }
 
 /** Questions ranked by how much they need work (for the dashboard). */
