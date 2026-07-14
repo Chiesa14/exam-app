@@ -5,7 +5,11 @@ export interface Question {
   answer: number; // index into options of the correct answer
   image: string | null; // filename in /public/signs, e.g. "img_283.png"
   imageEssential: boolean;
+  qKiny?: string; // Kinyarwanda translation of q
+  optionsKiny?: string[]; // Kinyarwanda translations of options, same order/indices as options
 }
+
+export type Lang = "en" | "rw";
 
 /** Aggregated per-question performance, derived from the attempts table. */
 export interface QStat {

@@ -8,9 +8,13 @@ import { useDB } from "@/lib/store";
 import { getStats, getTotals } from "@/lib/db";
 import { TOTAL_QUESTIONS, EXAM_COUNT, EXAM_MINUTES, DEFAULT_PASS } from "@/lib/questions";
 import { Book, Trophy, Play, Target, Fire, Chart } from "@/components/icons";
+import { useLang } from "@/lib/useLang";
+import { UI } from "@/lib/i18n";
 
 export default function Home() {
   const { ready, error, version } = useDB();
+  const lang = useLang();
+  const t = UI[lang];
 
   const summary = useMemo(() => {
     if (!ready) return null;
@@ -35,7 +39,7 @@ export default function Home() {
 
       {error && (
         <div className="card mb-4 border-brand-red/40 p-4 text-sm text-brand-red">
-          Could not load local database: {error}
+          {t.dbError} {error}
         </div>
       )}
 
@@ -47,24 +51,23 @@ export default function Home() {
         className="card relative overflow-hidden p-6 sm:p-8"
       >
         <div className="pointer-events-none absolute -right-10 -top-10 h-44 w-44 rounded-full bg-brand-blue/20 blur-3xl" />
-        <span className="chip">🇷🇼 Provisional driving licence · theory</span>
+        <span className="chip">{t.heroChip}</span>
         <h1 className="mt-3 text-3xl font-extrabold leading-tight sm:text-4xl">
-          Get exam-ready,
+          {t.heroTitle1}
           <br />
           <span className="bg-gradient-to-r from-brand-blue via-brand-green to-brand-sun bg-clip-text text-transparent">
-            one question at a time.
+            {t.heroTitle2}
           </span>
         </h1>
         <p className="mt-3 max-w-lg text-sm text-slate-300 sm:text-base">
-          {TOTAL_QUESTIONS} official questions. Smart repetition keeps the ones you miss coming back until you nail
-          them. Target: <b className="text-white">{DEFAULT_PASS}/20</b>.
+          {t.heroDesc(TOTAL_QUESTIONS, DEFAULT_PASS)}
         </p>
 
         {/* readiness meter */}
         <div className="mt-6">
           <div className="mb-1.5 flex items-center justify-between text-xs text-slate-400">
             <span className="flex items-center gap-1.5">
-              <Target className="h-4 w-4" /> Readiness
+              <Target className="h-4 w-4" /> {t.readiness}
             </span>
             <span className="font-bold text-white">{summary ? `${summary.readiness}%` : "—"}</span>
           </div>
@@ -81,10 +84,10 @@ export default function Home() {
 
       {/* quick stats */}
       <section className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-4">
-        <Stat icon={<Chart className="h-4 w-4" />} label="Seen" value={summary ? `${summary.totals.distinctSeen}/${TOTAL_QUESTIONS}` : "—"} />
-        <Stat icon={<Target className="h-4 w-4" />} label="Accuracy" value={summary ? `${Math.round(summary.totals.accuracy * 100)}%` : "—"} />
-        <Stat icon={<Fire className="h-4 w-4" />} label="Mastered" value={summary ? `${summary.mastered}` : "—"} />
-        <Stat icon={<Trophy className="h-4 w-4" />} label="Best score" value={summary ? `${summary.totals.bestScore}/20` : "—"} />
+        <Stat icon={<Chart className="h-4 w-4" />} label={t.statSeen} value={summary ? `${summary.totals.distinctSeen}/${TOTAL_QUESTIONS}` : "—"} />
+        <Stat icon={<Target className="h-4 w-4" />} label={t.statAccuracy} value={summary ? `${Math.round(summary.totals.accuracy * 100)}%` : "—"} />
+        <Stat icon={<Fire className="h-4 w-4" />} label={t.statMastered} value={summary ? `${summary.mastered}` : "—"} />
+        <Stat icon={<Trophy className="h-4 w-4" />} label={t.statBest} value={summary ? `${summary.totals.bestScore}/20` : "—"} />
       </section>
 
       {/* mode cards */}
@@ -93,25 +96,25 @@ export default function Home() {
           href="/practice"
           accent="from-brand-blue/25"
           icon={<Book className="h-6 w-6" />}
-          title="Practice mode"
-          desc="One question at a time with instant feedback. Missed questions resurface more often."
-          cta="Start practising"
+          title={t.practiceTitle}
+          desc={t.practiceDesc}
+          cta={t.practiceCta}
         />
         <ModeCard
           href="/exam"
           accent="from-brand-green/25"
           icon={<Trophy className="h-6 w-6" />}
-          title="Exam mode"
-          desc={`${EXAM_COUNT} random questions · ${EXAM_MINUTES} min · pass at ${DEFAULT_PASS}/20. Just like the real test.`}
-          cta="Take a mock exam"
+          title={t.examTitle}
+          desc={t.examDesc(EXAM_COUNT, EXAM_MINUTES, DEFAULT_PASS)}
+          cta={t.examCta}
         />
       </section>
 
       <div className="mt-6 flex items-center justify-between text-sm">
         <Link href="/stats" className="text-slate-300 underline-offset-4 hover:text-white hover:underline">
-          View full progress & weak spots →
+          {t.viewProgress}
         </Link>
-        {!ready && !error && <span className="text-xs text-slate-500">loading database…</span>}
+        {!ready && !error && <span className="text-xs text-slate-500">{t.loadingDb}</span>}
       </div>
     </main>
   );

@@ -3,10 +3,15 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import SoundToggle from "./SoundToggle";
+import LanguageToggle from "./LanguageToggle";
 import { ChevronLeft } from "./icons";
+import { useLang } from "@/lib/useLang";
+import { UI } from "@/lib/i18n";
 
 export default function Header({ title, back }: { title?: string; back?: boolean }) {
   const path = usePathname();
+  const lang = useLang();
+  const t = UI[lang];
   return (
     <header className="sticky top-0 z-30 mb-6 flex items-center justify-between gap-3 border-b border-white/5 bg-[#070d1b]/70 px-1 py-3 backdrop-blur-xl">
       <div className="flex items-center gap-2.5">
@@ -23,15 +28,16 @@ export default function Header({ title, back }: { title?: string; back?: boolean
         )}
         <div className="leading-tight">
           <div className="text-sm font-bold sm:text-base">{title ?? "Provisoire"}</div>
-          {!title && <div className="text-[11px] text-slate-400">Rwanda licence trainer</div>}
+          {!title && <div className="text-[11px] text-slate-400">{t.subtitle}</div>}
         </div>
       </div>
       <nav className="flex items-center gap-2">
         {path !== "/stats" && (
           <Link href="/stats" className="hidden text-sm font-medium text-slate-300 hover:text-white sm:block">
-            Progress
+            {t.progress}
           </Link>
         )}
+        <LanguageToggle />
         <SoundToggle />
       </nav>
     </header>

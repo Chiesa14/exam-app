@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import type { PreparedQuestion } from "@/lib/types";
+import { useLang } from "@/lib/useLang";
 import { Check, X, Image as ImageIcon } from "./icons";
 
 const LETTERS = ["A", "B", "C", "D", "E", "F"];
@@ -25,6 +26,10 @@ export default function QuestionView({
 }) {
   const { question, shuffledOptions, correctShuffledIndex } = prepared;
 
+  const lang = useLang();
+  const showKiny = lang === "rw" && !!question.qKiny;
+  const qText = showKiny ? question.qKiny! : question.q;
+
   return (
     <motion.div
       key={question.id}
@@ -36,17 +41,18 @@ export default function QuestionView({
     >
       <div className="mb-4 flex items-center justify-between gap-3">
         <span className="chip">
-          {modeLabel ? `${modeLabel} · ` : ""}Question {index} / {total}
+          {modeLabel ? `${modeLabel} · ` : ""}
+          {showKiny ? `Ikibazo ${index} / ${total}` : `Question ${index} / ${total}`}
         </span>
         <span className="chip opacity-70">#{question.id}</span>
       </div>
 
-      <h2 className="text-balance text-lg font-semibold leading-snug sm:text-2xl">{question.q}</h2>
+      <h2 className="text-balance text-lg font-semibold leading-snug sm:text-2xl">{qText}</h2>
 
       {question.image && (
         <div className="mt-4">
           <div className="mb-1.5 flex items-center gap-1.5 text-xs text-brand-blue">
-            <ImageIcon className="h-4 w-4" /> Look at the image below
+            <ImageIcon className="h-4 w-4" /> {showKiny ? "Reba ifoto hepfo" : "Look at the image below"}
           </div>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
@@ -84,7 +90,9 @@ export default function QuestionView({
             >
               <div className="flex items-center gap-3">
                 <span className="opt-letter">{LETTERS[i]}</span>
-                <span className="flex-1 text-[15px] leading-snug sm:text-base">{opt.text}</span>
+                <span className="flex-1 text-[15px] leading-snug sm:text-base">
+                  {showKiny ? question.optionsKiny?.[opt.originalIndex] ?? opt.text : opt.text}
+                </span>
                 {icon}
               </div>
             </button>
