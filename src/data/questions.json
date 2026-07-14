@@ -3440,6 +3440,26 @@
     ]
   },
   {
+    "id": 205,
+    "q": "Warning flashers are allowed to be used to let the driver know you're about to overtake in these places:",
+    "options": [
+      "Within an agglomeration or anywhere else",
+      "Near draught animals",
+      "Near cattle",
+      "None of the answers is correct"
+    ],
+    "answer": 0,
+    "image": null,
+    "imageEssential": false,
+    "qKiny": "Imburira zimurika zemerewe gukoreshwa kugirango bamenyeshe umuyobozi ko bagiye kumunyuraho aha hakurikira:",
+    "optionsKiny": [
+      "mu nsisiro cyangwa ahandi hose",
+      "ahegereye inyamaswa zikurura",
+      "hafi y'amatungo",
+      "nta gisubizo cy'ukuri kirimo"
+    ]
+  },
+  {
     "id": 206,
     "q": "The vehicles with the width which is superior to the following measures must be provided with loading light:",
     "options": [
@@ -6617,6 +6637,26 @@
       "Ishusho ya mpandeshatu mw'ibara ritukura, ubuso bwera n'ikirango cy'umukara",
       "Ishusho ya mpandeshatu mw'ibara ritukura, ubuso bw'ubururu n'ikirango cy'umukara",
       "Ishusho y'uruziga mw'ibara ritukura, ubuso bw'ubururu n'ikirango cy'umukara"
+    ]
+  },
+  {
+    "id": 365,
+    "q": "A motor vehicle and a vehicle drawn by an animal cannot pull:",
+    "options": [
+      "More than one vehicle",
+      "More than two loaded vehicles",
+      "More than two vehicles",
+      "B and C are correct"
+    ],
+    "answer": 2,
+    "image": null,
+    "imageEssential": false,
+    "qKiny": "Ikinyabiziga kigendeshwa na moteri n'ikinyabiziga gikururwa n'inyamaswa ntibishobora gukurura:",
+    "optionsKiny": [
+      "Ibinyabiziga birenze kimwe",
+      "Ibinyabiziga bipakiye birenze bibiri",
+      "Ibinyabiziga birenze bibiri",
+      "B na C ni byo"
     ]
   },
   {
